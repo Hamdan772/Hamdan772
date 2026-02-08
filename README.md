@@ -72,7 +72,7 @@ Machine learning project for predicting solar energy generation.
 
 <div align="center">
 
-[![Spotify](https://novatorem.vercel.app/api/spotify?username=31afc2hzwvufibe2ui4wdi3sruvu)](https://open.spotify.com/user/31afc2hzwvufibe2ui4wdi3sruvu)
+[<img src="https://novatorem.vercel.app/api/spotify?username=31afc2hzwvufibe2ui4wdi3sruvu" alt="Spotify" width="400"/>](https://open.spotify.com/user/31afc2hzwvufibe2ui4wdi3sruvu)
 
 </div>
 
@@ -82,8 +82,9 @@ Machine learning project for predicting solar energy generation.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Hamdan772&hide_title=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Hamdan772&layout=compact&langs_count=5&theme=dracula" height="150" />
+<img src="https://github-readme-stats.vercel.app/api?username=Hamdan772&show_icons=true&theme=dracula&count_private=true" alt="GitHub Stats" width="400" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Hamdan772&layout=compact&theme=dracula&langs_count=5" alt="Top Languages" width="400" />
 
 </div>
 
@@ -93,7 +94,7 @@ Machine learning project for predicting solar energy generation.
 
 <div align="center">
 
-<img src="https://github.com/Hamdan772/Hamdan772/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+![Snake animation](https://github.com/Hamdan772/Hamdan772/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
@@ -124,6 +125,6 @@ Machine learning project for predicting solar energy generation.
 
 <div align="center">
 
-### ⭐ Thanks for visiting! Feel free to explore my repos and collaborate! ⭐
+⭐ **Thanks for visiting! Feel free to explore my repos and collaborate!** ⭐
 
 </div>
