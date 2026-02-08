@@ -53,7 +53,9 @@ Machine learning project for predicting solar energy generation.
 ## Fun Dev Quotes 💡
 
 <div align="center">
+
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 </div>
 
 ---
@@ -69,7 +71,9 @@ Machine learning project for predicting solar energy generation.
 ## What I'm Listening To 🎵
 
 <div align="center">
-[![Spotify](https://novatorem.vercel.app/api/spotify?username=hamdan772)](https://open.spotify.com/user/31afc2hzwvufibe2ui4wdi3sruvu)
+
+[![Spotify](https://novatorem.vercel.app/api/spotify?username=31afc2hzwvufibe2ui4wdi3sruvu)](https://open.spotify.com/user/31afc2hzwvufibe2ui4wdi3sruvu)
+
 </div>
 
 ---
@@ -77,8 +81,10 @@ Machine learning project for predicting solar energy generation.
 ## GitHub Stats 📊
 
 <div align="center">
+
 <img src="https://github-readme-stats.vercel.app/api?username=Hamdan772&hide_title=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula" height="150" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Hamdan772&layout=compact&langs_count=5&theme=dracula" height="150" />
+
 </div>
 
 ---
@@ -86,7 +92,9 @@ Machine learning project for predicting solar energy generation.
 ## Contribution Snake 🐍
 
 <div align="center">
+
 <img src="https://github.com/Hamdan772/Hamdan772/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+
 </div>
 
 ---
@@ -94,7 +102,9 @@ Machine learning project for predicting solar energy generation.
 ## Profile Views 👀
 
 <div align="center">
+
 <img src="https://komarev.com/ghpvc/?username=Hamdan772&color=blueviolet&style=flat" alt="Profile Views" />
+
 </div>
 
 ---
@@ -102,10 +112,12 @@ Machine learning project for predicting solar energy generation.
 ## Connect With Me 🔗
 
 <div align="center">
+
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hamdan772)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hamdan772)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/hamdan772)
 [![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31afc2hzwvufibe2ui4wdi3sruvu)
+
 </div>
 
 ---
