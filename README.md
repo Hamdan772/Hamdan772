@@ -72,7 +72,8 @@ Machine learning project for predicting solar energy generation.
 
 <div align="center">
 
-[<img src="https://novatorem.vercel.app/api/spotify?username=31afc2hzwvufibe2ui4wdi3sruvu" alt="Spotify" width="400"/>](https://open.spotify.com/user/31afc2hzwvufibe2ui4wdi3sruvu)
+Currently listening to music on Spotify! 🎧  
+[Visit my Spotify Profile](https://open.spotify.com/user/31afc2hzwvufibe2ui4wdi3sruvu)
 
 </div>
 
@@ -82,31 +83,13 @@ Machine learning project for predicting solar energy generation.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Hamdan772&show_icons=true&theme=dracula&count_private=true" alt="GitHub Stats" width="400" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hamdan772&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Hamdan772&layout=compact&theme=dracula&langs_count=5" alt="Top Languages" width="400" />
-
-</div>
-
----
-
-## Contribution Snake 🐍
-
-<div align="center">
-
-![Snake animation](https://github.com/Hamdan772/Hamdan772/blob/output/github-contribution-grid-snake.svg)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Hamdan772&layout=compact&theme=dracula)
 
 </div>
 
 ---
-
-## Profile Views 👀
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Hamdan772&color=blueviolet&style=flat" alt="Profile Views" />
-
-</div>
 
 ---
 
@@ -115,8 +98,7 @@ Machine learning project for predicting solar energy generation.
 <div align="center">
 
 [<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>](https://github.com/Hamdan772)
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>](https://linkedin.com/in/hamdan772)
-[<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>](https://twitter.com/hamdan772)
+[<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>](mailto:hamdan.n1786@gmail.com)
 [<img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/>](https://open.spotify.com/user/31afc2hzwvufibe2ui4wdi3sruvu)
 
 </div>
@@ -125,6 +107,8 @@ Machine learning project for predicting solar energy generation.
 
 <div align="center">
 
-⭐ **Thanks for visiting! Feel free to explore my repos and collaborate!** ⭐
+**Thanks for visiting my profile! Let's build something amazing together!** 🚀
+
+<img src="https://komarev.com/ghpvc/?username=Hamdan772&color=blueviolet&style=flat" alt="Profile Views" />
 
 </div>
