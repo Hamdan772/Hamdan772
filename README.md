@@ -1,4 +1,4 @@
-# Hey there, I'm Hamdan 👋# Hey there 👋 I'm Hamdan# Hey there 👋 I'm Hamdan
+# Hey there, I'm Hamdan 👋# Hey there, I'm Hamdan 👋# Hey there 👋 I'm Hamdan# Hey there 👋 I'm Hamdan
 
 
 
@@ -6,23 +6,23 @@
 
 
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Student+Developer;Turning+Caffeine+into+Code;Building+Ideas+into+Reality)<div align="center"><div align="center">
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Student+Developer;Turning+Caffeine+into+Code;Building+Ideas+into+Reality)<div align="center">
 
 
 
-</div>    
+</div>
 
 
 
----  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Student+Developer;Turning+Caffeine+into+Code;Building+Ideas+into+Reality)  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Student+Developer;Turning+Caffeine+☕+into+Code;Building+Ideas+into+Reality)
+---![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Student+Developer;Turning+Caffeine+into+Code;Building+Ideas+into+Reality)<div align="center"><div align="center">
 
 
 
-**"I turn caffeine into code... and sometimes it even works."** ☕    
+**"I turn caffeine ☕ into code... and sometimes it even works."**
 
 
 
----</div></div>
+---</div>    
 
 
 
@@ -30,7 +30,7 @@
 
 
 
-- 🎓 Student learning by building cool projects> "I turn caffeine ☕ into code… and sometimes it even works."> "I turn caffeine ☕ into code… and sometimes it even works."
+- 🎓 Student learning by building cool projects---  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Student+Developer;Turning+Caffeine+into+Code;Building+Ideas+into+Reality)  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Student+Developer;Turning+Caffeine+☕+into+Code;Building+Ideas+into+Reality)
 
 - 🔍 Curious about how things work behind the scenes
 
@@ -38,7 +38,7 @@
 
 - 🚀 Always working on something new
 
-------
+**"I turn caffeine into code... and sometimes it even works."** ☕    
 
 ---
 
@@ -46,7 +46,7 @@
 
 ## Featured Projects 🖐️
 
-## 🎓 About Me## 🎓 About Me
+---</div></div>
 
 ### ASL Translator 🖐️
 
@@ -54,35 +54,35 @@ Real-time sign language translator that converts gestures to text
 
 - [View on GitHub](https://github.com/Hamdan772/asl-translator)
 
-- 🎓 Student learning by building projects- 🎓 Student learning by building projects
+## About Me 🎓
 
 ### SolarVision ☀️
 
-Machine learning project for predicting solar energy generation- 🔍 Curious about how things work behind the scenes- 🔍 Curious about how things work behind the scenes
+Machine learning project for predicting solar energy generation
 
 - [View on GitHub](https://github.com/Hamdan772/SolarVision)
 
-- 🛠️ Breaking code, fixing code, repeating- �️ Breaking code, fixing code, repeating
+- 🎓 Student learning by building cool projects> "I turn caffeine ☕ into code… and sometimes it even works."> "I turn caffeine ☕ into code… and sometimes it even works."
 
 ---
 
-- 🚀 Always working on something new- 🚀 Always working on something new
+- 🔍 Curious about how things work behind the scenes
 
 ## Fun Dev Quotes 💡
 
-
+- 🛠️ Breaking code, fixing code, repeating
 
 > "I write code that works... eventually."
 
-------
+- 🚀 Always working on something new
 
 > "I don't always test my code... but when I do, it's in production."
 
-
+------
 
 ---
 
-## 🖐️ Featured Projects## 🖐️ Featured Projects
+---
 
 ## Currently Leveling Up 📚
 
@@ -90,37 +90,160 @@ Machine learning project for predicting solar energy generation- 🔍 Curious ab
 
 - 🧠 Problem-solving skills & algorithms
 
-- 🌍 Building smarter real-world projects### 🖐️ ASL Translator### 🖐️ ASL Translator
+- 🌍 Building smarter real-world projects## Featured Projects 🖐️
 
 - 🚀 Learning new technologies
 
-Real-time sign language translator that converts gestures to textReal-time sign language translator → converts gestures to text
+## 🎓 About Me## 🎓 About Me
 
 ---
 
-- **Link:** [github.com/Hamdan772/asl-translator](https://github.com/Hamdan772/asl-translator)- **Link:** [github.com/Hamdan772/asl-translator](https://github.com/Hamdan772/asl-translator)
+### ASL Translator 🖐️
 
 ## GitHub Stats 📊
 
-
+Real-time sign language translator that converts gestures to text
 
 <div align="center">
 
-### ☀️ SolarVision### ☀️ SolarVision
+- [View on GitHub](https://github.com/Hamdan772/asl-translator)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Hamdan772&show_icons=true&theme=radical&hide_border=true&count_private=true)
 
-Machine learning project for predicting solar energy generationMachine learning project for predicting solar energy generation
+- 🎓 Student learning by building projects- 🎓 Student learning by building projects
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hamdan772&layout=compact&theme=radical&hide_border=true)
 
-- **Link:** [github.com/Hamdan772/SolarVision](https://github.com/Hamdan772/SolarVision)- **Link:** [github.com/Hamdan772/SolarVision](https://github.com/Hamdan772/SolarVision)
+### SolarVision ☀️
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Hamdan772&theme=radical&hide_border=true)
+
+Machine learning project for predicting solar energy generation- 🔍 Curious about how things work behind the scenes- 🔍 Curious about how things work behind the scenes
+
+</div>
+
+- [View on GitHub](https://github.com/Hamdan772/SolarVision)
+
+---
+
+- 🛠️ Breaking code, fixing code, repeating- �️ Breaking code, fixing code, repeating
+
+## Tech Stack 🛠️
+
+---
+
+<div align="center">
+
+- 🚀 Always working on something new- 🚀 Always working on something new
+
+### Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)## Fun Dev Quotes 💡
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+> "I write code that works... eventually."
+
+### Tools & Frameworks
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)------
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)> "I don't always test my code... but when I do, it's in production."
 
 
 
 </div>
+
+
+
+------
+
+
+
+## What I'm Listening To 🎵## 🖐️ Featured Projects## 🖐️ Featured Projects
+
+
+
+<div align="center">## Currently Leveling Up 📚
+
+
+
+[![Spotify](https://novatorem.vercel.app/api/spotify?username=31afc2hzwvufibe2ui4wdi3sruvu)](https://open.spotify.com/user/31afc2hzwvufibe2ui4wdi3sruvu?si=f6f5ca370d5e4780)
+
+
+
+</div>- 🧠 Problem-solving skills & algorithms
+
+
+
+---- 🌍 Building smarter real-world projects### 🖐️ ASL Translator### 🖐️ ASL Translator
+
+
+
+## Random Dev Quote 🎲- 🚀 Learning new technologies
+
+
+
+<div align="center">Real-time sign language translator that converts gestures to textReal-time sign language translator → converts gestures to text
+
+
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)---
+
+
+
+</div>- **Link:** [github.com/Hamdan772/asl-translator](https://github.com/Hamdan772/asl-translator)- **Link:** [github.com/Hamdan772/asl-translator](https://github.com/Hamdan772/asl-translator)
+
+
+
+---## GitHub Stats 📊
+
+
+
+## Connect With Me 🔗
+
+
+
+<div align="center"><div align="center">
+
+
+
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hamdan772)### ☀️ SolarVision### ☀️ SolarVision
+
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/hamdan772)
+
+[![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31afc2hzwvufibe2ui4wdi3sruvu?si=f6f5ca370d5e4780)![GitHub stats](https://github-readme-stats.vercel.app/api?username=Hamdan772&show_icons=true&theme=radical&hide_border=true&count_private=true)
+
+
+
+</div>Machine learning project for predicting solar energy generationMachine learning project for predicting solar energy generation
+
+
+
+---![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hamdan772&layout=compact&theme=radical&hide_border=true)
+
+
+
+<div align="center">- **Link:** [github.com/Hamdan772/SolarVision](https://github.com/Hamdan772/SolarVision)- **Link:** [github.com/Hamdan772/SolarVision](https://github.com/Hamdan772/SolarVision)
+
+
+
+![Profile Views](https://komarev.com/ghpvc/?username=Hamdan772&color=blueviolet&style=flat)![GitHub Streak](https://streak-stats.demolab.com?user=Hamdan772&theme=radical&hide_border=true)
+
+
+
+**Thanks for visiting! Feel free to explore and collaborate!** ⭐
+
+
+
+</div></div>
+
 
 ------
 
