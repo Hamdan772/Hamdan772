@@ -1,19 +1,17 @@
-# 👋 Hey, I'm Hamdan
-
-### <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0e75b6&center=true&vCenter=true&width=600&lines=I+turn+caffeine+%E2%98%95+into+code;Building+AI,+Web+Apps+%26+Fun+Projects;Debugging+one+bug+at+a+time;Welcome+to+my+GitHub" alt="Typing SVG" />
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hamdan772&label=Profile%20views&color=0e75b6&style=flat" />
+  <h1 align="center">👋 Hey, I'm Hamdan</h1>
 </p>
+
+### <p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0e75b6&center=true&vCenter=true&width=600&lines=I+turn+caffeine+%E2%98%95+into+code;Building+AI,+Web+Apps+%26+Fun+Projects;Debugging+one+bug+at+a+time;Welcome+to+my+GitHub" alt="Typing SVG" /></p>
 
 ---
 
 ## 🧠 About Me
 
-- 🎓 Student & hands-on learner — I build to **understand and create**
-- ⚙️ Passionate about **AI, Machine Learning, and full-stack development**
+- 🎓 Student & hands-on learner — I **build to understand and create**
+- ⚙️ Passionate about **AI, Machine Learning, and full-stack dev**
 - 🛠️ Love **breaking things, fixing them, and learning faster**
-- 🚀 Constantly experimenting and pushing boundaries
+- 🚀 Constantly experimenting and having fun with projects
 
 ---
 
@@ -36,16 +34,16 @@
 <div align="center">
 
 ### 🖐️ ASL Translator
-> Real-time sign language to text translator improving accessibility.  
-[💻 View on GitHub](https://github.com/Hamdan772/asl-translator)
+> Real-time sign language to text translator for accessibility.  
+[💻 GitHub](https://github.com/Hamdan772/asl-translator)
 
 ### ☀️ SolarVision
 > AI-powered rooftop solar energy predictor using weather & time-series data.  
-[💻 View on GitHub](https://github.com/Hamdan772/SolarVision)
+[💻 GitHub](https://github.com/Hamdan772/SolarVision)
 
 ### 🔧 Mini Projects & Experiments
 > Small AI & web projects built for learning and fun.  
-[💻 Explore More](https://github.com/Hamdan772)
+[💻 Explore](https://github.com/Hamdan772)
 
 </div>
 
@@ -90,7 +88,6 @@
 ## 🎨 Interactive Project Showcase
 
 <p align="center">
-
 <a href="https://github.com/Hamdan772/asl-translator">
   <img src="https://img.shields.io/badge/ASL_Translator-💻-blue?style=for-the-badge" />
 </a>
@@ -100,7 +97,6 @@
 <a href="https://github.com/Hamdan772">
   <img src="https://img.shields.io/badge/Mini_Projects-🔧-green?style=for-the-badge" />
 </a>
-
 </p>
 
 ---
@@ -117,8 +113,14 @@
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" width="200"/>
   <p><em>"In a world full of bugs, be a feature."</em></p>
 </div>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=hamdan772&color=0e75b6&style=flat" />
+</p>
 
 ---
