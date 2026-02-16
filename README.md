@@ -44,9 +44,11 @@ const hamdan = {
 
 <br clear="right"/>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=500&color=38BDF8&center=true&vCenter=true&width=600&lines=🔭+Building+intelligent+systems;🌱+Always+learning+%26+growing;⚡+Turning+ideas+into+reality;🎯+Problem+solver+%26+innovator" alt="About typing" />
-</p>
+<div align="center">
+
+**🔭 Building intelligent systems • 🌱 Always learning & growing • ⚡ Turning ideas into reality • 🎯 Problem solver & innovator**
+
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -59,25 +61,27 @@ const hamdan = {
 <table>
 <tr>
 <td width="50%" align="center">
-  <a href="https://github.com/Hamdan772/SolarVision">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hamdan772&repo=SolarVision&theme=transparent&hide_border=true&title_color=38bdf8&text_color=c9d1d9&icon_color=38bdf8&bg_color=0d1117&description_lines_count=3" alt="SolarVision" />
-  </a>
-  <br><br>
-  <p><b>☀️ SolarVision</b></p>
-  <p>AI-powered solar panel monitoring platform with intelligent energy insights, predictive maintenance, and real-time analytics</p>
+  <h3>☀️ SolarVision</h3>
+  <p align="center">
+    <a href="https://github.com/Hamdan772/SolarVision">
+      <img src="https://img.shields.io/badge/View%20Project-38bdf8?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
+    </a>
+  </p>
+  <p>AI-powered solar panel monitoring platform with intelligent energy insights, predictive maintenance, and real-time analytics using computer vision</p>
   <p>
-    <code>Python</code> <code>TensorFlow</code> <code>OpenCV</code> <code>IoT</code>
+    <code>Python</code> • <code>TensorFlow</code> • <code>OpenCV</code> • <code>IoT</code>
   </p>
 </td>
 <td width="50%" align="center">
-  <a href="https://github.com/Hamdan772/asl-translator">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hamdan772&repo=asl-translator&theme=transparent&hide_border=true&title_color=38bdf8&text_color=c9d1d9&icon_color=38bdf8&bg_color=0d1117&description_lines_count=3" alt="ASL Translator" />
-  </a>
-  <br><br>
-  <p><b>🤟 ASL Translator</b></p>
-  <p>Real-time American Sign Language recognition using computer vision to break down communication barriers</p>
+  <h3>🤟 ASL Translator</h3>
+  <p align="center">
+    <a href="https://github.com/Hamdan772/asl-translator">
+      <img src="https://img.shields.io/badge/View%20Project-38bdf8?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
+    </a>
+  </p>
+  <p>Real-time American Sign Language recognition using computer vision and deep learning to break down communication barriers</p>
   <p>
-    <code>Python</code> <code>MediaPipe</code> <code>Deep Learning</code>
+    <code>Python</code> • <code>MediaPipe</code> • <code>Deep Learning</code>
   </p>
 </td>
 </tr>
@@ -87,7 +91,7 @@ const hamdan = {
 
 <p align="center">
   <a href="https://github.com/Hamdan772?tab=repositories">
-    <img src="https://img.shields.io/badge/View%20All%20Projects-38bdf8?style=for-the-badge&logo=github&logoColor=white" alt="View All Projects"/>
+    <img src="https://img.shields.io/badge/View%20All%20Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="View All Projects"/>
   </a>
 </p>
 
@@ -127,9 +131,11 @@ const hamdan = {
 
 <br>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2000&pause=500&color=38BDF8&center=true&vCenter=true&width=700&lines=Computer+Vision+•+Machine+Learning+•+Deep+Learning;IoT+Systems+•+Automation+•+Problem+Solving;Real-time+Processing+•+Edge+AI+•+Smart+Systems" alt="Skills" />
-</p>
+<div align="center">
+
+**Core Focus:** `Computer Vision` • `Machine Learning` • `Deep Learning` • `IoT Systems` • `Automation` • `Problem Solving` • `Real-time Processing` • `Edge AI`
+
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -141,7 +147,7 @@ const hamdan = {
   
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Hamdan772&hide_border=true&stroke=0000&background=0d1117&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8&sideNums=c9d1d9&currStreakNum=c9d1d9&dates=c9d1d9&sideLabels=c9d1d9" alt="GitHub Streak" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Hamdan772&show_icons=true&count_private=true&hide_border=true&title_color=38bdf8&icon_color=38bdf8&text_color=c9d1d9&bg_color=0d1117&include_all_commits=true&custom_title=GitHub%20Stats" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Hamdan772&show_icons=true&count_private=true&hide_border=true&title_color=38bdf8&icon_color=38bdf8&text_color=c9d1d9&bg_color=0d1117&include_all_commits=true&rank_icon=github" alt="GitHub Stats" />
 
 </div>
 
@@ -149,17 +155,7 @@ const hamdan = {
 
 <div align="center">
   
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Hamdan772&custom_title=Hamdan's%20Contribution%20Graph&bg_color=0d1117&color=38bdf8&line=38bdf8&point=c9d1d9&area_color=0d1117&title_color=38bdf8&area=true&hide_border=true" alt="Contribution Graph" />
-
-</div>
-
-<br>
-
-<div align="center">
-  
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamdan772&layout=compact&hide_border=true&title_color=38bdf8&text_color=c9d1d9&bg_color=0d1117&langs_count=8&hide=jupyter%20notebook" alt="Top Languages" />
-
-<img width="49%" src="https://github-profile-trophy.vercel.app/?username=Hamdan772&theme=darkhub&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Hamdan772&custom_title=Contribution%20Activity&bg_color=0d1117&color=38bdf8&line=38bdf8&point=c9d1d9&area_color=0d1117&title_color=38bdf8&area=true&hide_border=true" alt="Contribution Graph" />
 
 </div>
 
@@ -175,23 +171,37 @@ const hamdan = {
 <tr>
 <td width="50%" valign="top">
 
-### 💡 Currently Building
+<h3 align="center">💡 Currently Building</h3>
+
 ```yaml
-- AI automation tools
-- Computer vision apps
-- IoT smart systems
-- Real-world solutions
+AI Automation Tools:
+  - Smart workflow automation
+  - Intelligent task management
+  
+Computer Vision Apps:
+  - Real-time object detection
+  - Image recognition systems
+  
+IoT Solutions:
+  - Smart home automation
+  - Sensor data analytics
 ```
 
 </td>
 <td width="50%" valign="top">
 
-### 📚 Currently Learning
+<h3 align="center">📚 Currently Learning</h3>
+
 ```yaml
-- Advanced Deep Learning
-- MLOps & Deployment
-- System Architecture
-- Edge AI & Optimization
+Technical Skills:
+  - Advanced Deep Learning
+  - MLOps & Model Deployment
+  - System Architecture Design
+  
+Emerging Tech:
+  - Edge AI Optimization
+  - Cloud Computing (AWS/Azure)
+  - Transformer Models
 ```
 
 </td>
@@ -199,23 +209,35 @@ const hamdan = {
 <tr>
 <td width="50%" valign="top">
 
-### 🚀 Currently Improving
+<h3 align="center">🚀 Currently Improving</h3>
+
 ```yaml
-- Code quality & standards
-- System scalability
-- Best practices
-- Performance optimization
+Code Quality:
+  - Clean code principles
+  - Design patterns
+  - Code documentation
+  
+System Design:
+  - Scalability
+  - Performance optimization
+  - Best practices
 ```
 
 </td>
 <td width="50%" valign="top">
 
-### 🎯 Goals for 2026
+<h3 align="center">🎯 2026 Goals</h3>
+
 ```yaml
-- Build 10+ AI projects
-- Contribute to open source
-- Master computer vision
-- Launch a startup idea
+Project Goals:
+  - Build 10+ AI projects
+  - Contribute to open source
+  - Launch startup MVP
+  
+Learning Goals:
+  - Master computer vision
+  - Learn cloud architecture
+  - Publish research paper
 ```
 
 </td>
@@ -233,15 +255,15 @@ const hamdan = {
 <div align="center">
 
 <a href="https://github.com/Hamdan772">
-  <img src="https://img.shields.io/badge/GitHub-Hamdan772-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitHub-Hamdan772-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 <a href="mailto:hamdan.n1786@gmail.com">
-  <img src="https://img.shields.io/badge/Email-hamdan.n1786@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" alt="Email" />
+  <img src="https://img.shields.io/badge/Email-hamdan.n1786@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=💬+Open+to+collaborations;📫+Reach+out+for+projects;🤝+Let's+build+something+amazing;✨+Always+happy+to+connect!" alt="Connect" />
+**💬 Open to collaborations • 📫 Reach out for projects • 🤝 Let's build something amazing • ✨ Always happy to connect!**
 
 </div>
 
@@ -249,26 +271,40 @@ const hamdan = {
 
 <br>
 
-## 🎭 Fun Facts
+## 🎭 Fun Facts About Me
 
 <div align="center">
 
 ```python
 class HamdanStats:
     def __init__(self):
+        self.name = "Hamdan"
+        self.location = "Sharjah, UAE 🇦🇪"
         self.coffee_consumed = "∞ cups ☕"
-        self.bugs_created = "Too many 🐛"
+        self.bugs_created = "Too many to count 🐛"
         self.bugs_fixed = "Almost as many 🔧"
         self.hours_coding = "24/7 💻"
         self.favorite_language = "Python 🐍"
-        self.debugging_method = "print() everywhere 😅"
+        self.debugging_method = "console.log() / print() everywhere 😅"
         self.current_status = "Turning caffeine into code"
+        self.keyboard_temp = "🔥 Overheating"
+        
+    def daily_routine(self):
+        return [
+            "☕ Wake up",
+            "💻 Code",
+            "🐛 Debug", 
+            "☕ Coffee break",
+            "💻 More code",
+            "🌙 Sleep()",
+            "🔁 Repeat"
+        ]
         
     def motto(self):
         return "If it compiles, ship it! 🚀"
         
     def life_philosophy(self):
-        return "Stay consistent. Stay curious. Stay building."
+        return "Stay consistent. Stay curious. Stay building. 💪"
 ```
 
 </div>
@@ -277,7 +313,7 @@ class HamdanStats:
 
 <div align="center">
 
-### 💭 Quote of the Day
+### 💭 Random Dev Quote
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" />
 
@@ -305,6 +341,6 @@ class HamdanStats:
 
 <img src="https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg?style=flat-square&color=38bdf8" alt="Made with Markdown"/>
 <img src="https://img.shields.io/badge/Maintained-Yes-38bdf8.svg?style=flat-square" alt="Maintained"/>
-<img src="https://img.shields.io/badge/PRs-Welcome-38bdf8.svg?style=flat-square" alt="PRs Welcome"/>
+<img src="https://img.shields.io/badge/Open%20Source-❤️-38bdf8.svg?style=flat-square" alt="Open Source"/>
 
 </div>
