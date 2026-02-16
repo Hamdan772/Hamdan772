@@ -147,8 +147,6 @@ const hamdan = {
   
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Hamdan772&hide_border=true&stroke=0000&background=0d1117&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8&sideNums=c9d1d9&currStreakNum=c9d1d9&dates=c9d1d9&sideLabels=c9d1d9" alt="GitHub Streak" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Hamdan772&show_icons=true&count_private=true&hide_border=true&title_color=38bdf8&icon_color=38bdf8&text_color=c9d1d9&bg_color=0d1117&include_all_commits=true&rank_icon=github" alt="GitHub Stats" />
-
 </div>
 
 <br>
