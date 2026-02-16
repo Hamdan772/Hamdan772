@@ -1,67 +1,152 @@
-<!--
-  🚀 Welcome to Hamdan772’s GitHub Profile
-  This README will show on your GitHub profile if you create
-  a **public repo named exactly `Hamdan772`** and add this file in it.  [oai_citation:1‡GitHub Docs](https://docs.github.com/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme?utm_source=chatgpt.com)
--->
+# ☕ Welcome to Hamdan772's Lab ☕
+### *Where Caffeine Becomes Code... and Sometimes It Even Works.*
 
 <div align="center">
-  <h1>👋 Hey there, I’m Hamdan772</h1>
-  <p>A passionate developer, problem-solver, and full-stack explorer 🚀</p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7A52E&center=true&vCenter=true&width=750&lines=I+Turn+Caffeine+Into+Code+☕;AI+Builder+%7C+ML+Explorer+%7C+Problem+Solver+🚀;Debugging+One+Sip+At+A+Time+🔍;Sometimes+It+Works.+Sometimes+It%E2%80%99s+Magic.✨;Building+Tech+That+Actually+Matters+🌍" alt="Typing SVG" />
 </div>
 
 ---
 
-## 🔭 About Me
+## ☕ About This Developer
 
-- 👨‍💻 I’m currently working on Web & Full-Stack applications  
-- 💡 I love building things that help people & solve real problems  
-- ⚙️ I’m experienced with JavaScript, Python, and modern web stack  
-- 💬 I enjoy writing clean code, learning new tech, and building portfolio projects  
-- 🎧 When not coding — you’ll find me exploring music, tech articles, and open-source trends
+```javascript
+const hamdan = {
+    name: "Hamdan",
+    username: "Hamdan772",
+    specialization: ["Artificial Intelligence 🤖", "Machine Learning 📊", "Web Development 🌐"],
+    fuel: "Caffeine ☕",
+    superpower: "Turning ideas into working prototypes",
+    reality: "Turning working prototypes into debugging sessions",
+    philosophy: () => "I turn caffeine ☕ into code... and sometimes it even works."
+};
+```
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 Featured Projects (Powered by Coffee)
+
+---
+
+<div align="center">
+
+# ☀️ SolarVision  
+### Predicting The Power of The Sun
+
+</div>
+
+```python
+# Step 1: Collect sunlight ☀️
+# Step 2: Feed data into ML model 📊
+# Step 3: Predict energy output ⚡
+# Step 4: Drink coffee ☕ and optimize
+
+if caffeine_level > 0:
+    build_model()
+    improve_accuracy()
+```
+
+**What it does:**  
+SolarVision predicts solar energy generation using machine learning models and real-world data.
+
+**Why it matters:**  
+- 🌍 Promotes renewable energy innovation  
+- 📈 Data-driven forecasting  
+- ⚡ Smart optimization for solar systems  
+
+🔗 Repository:  
+https://github.com/Hamdan772/SolarVision
+
+---
+
+<div align="center">
+
+# 🤟 ASL Translator  
+### Turning Gestures Into Words
+
+</div>
+
+```python
+# Camera sees hand 👋
+# Model processes gesture 🤖
+# Text appears on screen 💬
+# Communication barrier disappears 🌍
+
+translate_gesture()
+```
+
+**What it does:**  
+An AI-powered system that translates American Sign Language gestures into readable text.
+
+**Why it matters:**  
+- 🤝 Improves accessibility  
+- 🧠 Uses computer vision + ML  
+- 🌍 Bridges communication gaps  
+
+🔗 Repository:  
+https://github.com/Hamdan772/asl-translator
+
+---
+
+## 🛠️ My Tech Stack
 
 ### Languages
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+- Python 🐍  
+- JavaScript ⚡  
+- HTML/CSS 🎨  
 
-### Frontend
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
-
-### Backend & Tools
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)
+### Tools & Technologies
+- Machine Learning (Scikit-learn, TensorFlow, etc.)
+- React & Node.js  
+- Git & GitHub  
+- VS Code  
+- Coffee Machine (Critical Dependency)
 
 ---
 
 ## 📊 GitHub Stats
 
-<!-- Put your GitHub stats here -->
-![Hamdan772 GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hamdan772&show_icons=true&theme=radical)
+<div align="center">
+
+![Hamdan772 GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hamdan772&show_icons=true&theme=radical&border_radius=15)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hamdan772&layout=compact&theme=radical&border_radius=15)
+
+</div>
 
 ---
 
-## 🔗 Connect With Me
+## 🎯 Current Status
 
-<p>
-  <a href="https://github.com/Hamdan772">GitHub</a> •
-  <a href="https://linkedin.com/in/Hamdan772">LinkedIn</a> •
-  <a href="mailto:email@example.com">Email</a>
-</p>
+```javascript
+while (alive) {
+    drinkCoffee();
+    buildAI();
+    fixBugs();
+    pushToGitHub();
+    repeat();
+}
+```
+
+- ☕ Caffeine level: High  
+- 🧠 Curiosity level: Higher  
+- 🚀 Ambition level: Maximum  
+- 🐛 Bugs level: Under control (probably)
 
 ---
 
-## 💬 What I’m Learning
-- Next.js & Server-Side Rendering
-- REST APIs & Backend Optimization
-- DevOps basics with CI/CD pipelines
+## 💭 Developer Philosophy
+
+> "I turn caffeine ☕ into code... and sometimes it even works."
+
+> "If it compiles on the first try, I don’t trust it."
+
+> "Clean code today saves debugging tomorrow."
 
 ---
 
-> *“Code is poetry — and every project tells a story.”*  
+<div align="center">
+
+### ☕ Thanks for visiting!
+If you like what you see, feel free to ⭐ a repository.
+
+</div>
