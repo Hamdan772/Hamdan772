@@ -1,130 +1,145 @@
 <div align="center">
 
-# 👋 Hi, I'm Hamdan
+# 👋 Hey, I'm Hamdan
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Student+Developer;AI+%26+Computer+Vision+Enthusiast;I+turn+caffeine+into+code+%E2%98%95;Building+things+that+matter" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Student+Developer+%F0%9F%92%BB;AI+%26+Computer+Vision+Enthusiast+%F0%9F%A4%96;I+turn+caffeine+into+code+%E2%98%95;I+write+code+that+works...+eventually+%F0%9F%98%84" alt="Typing SVG" />
 
-### *I write code that works... eventually* 😄
-
-<img src="https://komarev.com/ghpvc/?username=Hamdan772&style=flat-square&color=38bdf8" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=Hamdan772&style=flat-square&color=38bdf8" alt=""/>
 
 </div>
 
----
+<br>
 
 ## 💫 About Me
 
-```typescript
+```javascript
 const hamdan = {
-    role: "Student Developer",
     location: "Sharjah, UAE 🇦🇪",
-    interests: ["Computer Vision", "Machine Learning", "IoT Systems"],
-    currentlyLearning: ["Advanced AI Architectures", "System Design", "MLOps"],
+    role: "Student Developer",
+    passions: ["Computer Vision", "Machine Learning", "IoT"],
+    currentFocus: "Building AI-powered applications",
     funFact: "I turn caffeine into code ☕ → 💻",
-    lifePhilosophy: "Stay consistent. Stay curious. Stay building."
+    motto: "Stay consistent. Stay curious. Stay building."
 };
 ```
 
 <div align="center">
 
-**🎯 Quick Facts**
-
-🔭 Working on AI-powered applications | 🌱 Deepening ML/CV expertise | ⚡ Building real solutions
+🔭 Building intelligent systems • 🌱 Learning ML/CV • ⚡ Solving real problems
 
 </div>
 
----
+<br>
 
 ## 🚀 Featured Projects
 
 <div align="center">
 
-<a href="https://github.com/Hamdan772/SolarVision">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Hamdan772&repo=SolarVision&theme=transparent&hide_border=true&title_color=38bdf8&text_color=ffffff&icon_color=38bdf8&bg_color=0d1117" />
-</a>
-
-<a href="https://github.com/Hamdan772/asl-translator">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Hamdan772&repo=asl-translator&theme=transparent&hide_border=true&title_color=38bdf8&text_color=ffffff&icon_color=38bdf8&bg_color=0d1117" />
-</a>
+[![SolarVision](https://img.shields.io/badge/☀️_SolarVision-AI_Solar_Monitoring-38bdf8?style=for-the-badge)](https://github.com/Hamdan772/SolarVision)
+[![ASL Translator](https://img.shields.io/badge/🤟_ASL_Translator-Sign_Language_Recognition-38bdf8?style=for-the-badge)](https://github.com/Hamdan772/asl-translator)
 
 </div>
 
-<div align="center">
+<table align="center">
+<tr>
+<td width="50%" valign="top">
 
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| ☀️ **SolarVision** | AI-powered solar monitoring with intelligent energy insights | `Python` `TensorFlow` `OpenCV` `IoT` |
-| 🤟 **ASL Translator** | Real-time sign language recognition using computer vision | `Python` `MediaPipe` `Deep Learning` |
+### ☀️ SolarVision
+AI-powered solar panel monitoring with intelligent energy insights and predictive maintenance.
 
-</div>
+**Stack:** `Python` `TensorFlow` `OpenCV` `IoT`
 
----
+</td>
+<td width="50%" valign="top">
+
+### 🤟 ASL Translator
+Real-time sign language recognition using computer vision to break communication barriers.
+
+**Stack:** `Python` `MediaPipe` `Deep Learning`
+
+</td>
+</tr>
+</table>
+
+<br>
 
 ## 🛠️ Tech Stack
 
 <div align="center">
 
+### Languages & Frameworks
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+### AI & ML Tools
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+
+### Development Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 </div>
 
 <div align="center">
+<br>
 
-**💻 Core Focus Areas**
-
-`Computer Vision` • `Machine Learning` • `Automation` • `IoT Systems` • `Problem Solving`
+**Core Focus:** `Computer Vision` • `Machine Learning` • `Automation` • `IoT Systems` • `Problem Solving`
 
 </div>
 
----
+<br>
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Hamdan772&show_icons=true&theme=transparent&hide_border=true&title_color=38bdf8&text_color=ffffff&icon_color=38bdf8&bg_color=0d1117" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Hamdan772&theme=transparent&hide_border=true&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8&background=0d1117" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Hamdan772&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=c9d1d9&ring_color=38bdf8" alt="GitHub Stats" />
+
+<img width="49%" src="https://streak-stats.demolab.com?user=Hamdan772&theme=radical&hide_border=true&background=0d1117&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8&sideNums=c9d1d9&currStreakNum=c9d1d9&dates=c9d1d9&sideLabels=c9d1d9" alt="GitHub Streak" />
 
 </div>
 
 <div align="center">
-  
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamdan772&layout=compact&theme=transparent&hide_border=true&title_color=38bdf8&text_color=ffffff&bg_color=0d1117&langs_count=6" />
+
+<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamdan772&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=c9d1d9&langs_count=6" alt="Top Languages" />
 
 </div>
 
----
+<br>
 
-## 🎯 What I'm Up To
+## 🎯 Currently
 
 <div align="center">
 
 ```yaml
-currently_building: "AI-powered automation tools & computer vision applications"
-currently_learning: "Advanced Deep Learning, MLOps, System Architecture"
-currently_improving: "Code quality, scalability, best practices"
+💡 Building: AI-powered automation & computer vision apps
+📚 Learning: Advanced Deep Learning, MLOps, System Architecture  
+🚀 Improving: Code quality, scalability, and best practices
 ```
 
 </div>
 
----
+<br>
+
+## 🌐 Connect With Me
 
 <div align="center">
 
-### 💬 Let's Connect
-
-[![GitHub](https://img.shields.io/badge/GitHub-Hamdan772-181717?style=for-the-badge&logo=github)](https://github.com/Hamdan772)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail)](mailto:your.email@example.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Hamdan772-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hamdan772)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
 <br>
 
-**⭐ Star my repos if you find them interesting!**
+---
+
+<sub>⭐ **Star my repos if you find them interesting!** ⭐</sub>
+
+<br>
 
 <sub>Built with 💙 and lots of ☕</sub>
 
