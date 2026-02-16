@@ -2,9 +2,12 @@
 
 # 👋 Hey, I'm Hamdan
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Student+Developer+%F0%9F%92%BB;AI+%26+Computer+Vision+Enthusiast+%F0%9F%A4%96;I+turn+caffeine+into+code+%E2%98%95;I+write+code+that+works...+eventually+%F0%9F%98%84" alt="Typing SVG" />
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=38BDF8&center=true&vCenter=true&repeat=true&width=600&height=100&lines=Student+Developer+%F0%9F%92%BB;AI+%26+Computer+Vision+Enthusiast+%F0%9F%A4%96;Building+Things+That+Matter+%F0%9F%9A%80;I+Turn+Caffeine+Into+Code+%E2%98%95%F0%9F%92%BB;I+Write+Code+That+Works...+Eventually+%F0%9F%98%84" alt="Typing SVG" /></a>
 
-<img src="https://komarev.com/ghpvc/?username=Hamdan772&style=flat-square&color=38bdf8" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=Hamdan772&style=flat-square&color=38bdf8" alt="Profile Views"/>
+
+[![GitHub followers](https://img.shields.io/github/followers/Hamdan772?label=Followers&style=social)](https://github.com/Hamdan772)
+[![GitHub stars](https://img.shields.io/github/stars/Hamdan772?label=Stars&style=social)](https://github.com/Hamdan772)
 
 </div>
 
@@ -35,31 +38,25 @@ const hamdan = {
 
 <div align="center">
 
-[![SolarVision](https://img.shields.io/badge/☀️_SolarVision-AI_Solar_Monitoring-38bdf8?style=for-the-badge)](https://github.com/Hamdan772/SolarVision)
-[![ASL Translator](https://img.shields.io/badge/🤟_ASL_Translator-Sign_Language_Recognition-38bdf8?style=for-the-badge)](https://github.com/Hamdan772/asl-translator)
+<a href="https://github.com/Hamdan772/SolarVision">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hamdan772&repo=SolarVision&theme=transparent&hide_border=true&title_color=38bdf8&text_color=ffffff&icon_color=38bdf8&bg_color=0d1117&description_lines_count=3" />
+</a>
+<a href="https://github.com/Hamdan772/asl-translator">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hamdan772&repo=asl-translator&theme=transparent&hide_border=true&title_color=38bdf8&text_color=ffffff&icon_color=38bdf8&bg_color=0d1117&description_lines_count=3" />
+</a>
 
 </div>
 
-<table align="center">
-<tr>
-<td width="50%" valign="top">
+<br>
 
-### ☀️ SolarVision
-AI-powered solar panel monitoring with intelligent energy insights and predictive maintenance.
+<div align="center">
 
-**Stack:** `Python` `TensorFlow` `OpenCV` `IoT`
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| ☀️ **SolarVision** | AI-powered solar monitoring with intelligent energy insights | `Python` `TensorFlow` `OpenCV` `IoT` |
+| 🤟 **ASL Translator** | Real-time sign language recognition using computer vision | `Python` `MediaPipe` `Deep Learning` |
 
-</td>
-<td width="50%" valign="top">
-
-### 🤟 ASL Translator
-Real-time sign language recognition using computer vision to break communication barriers.
-
-**Stack:** `Python` `MediaPipe` `Deep Learning`
-
-</td>
-</tr>
-</table>
+</div>
 
 <br>
 
@@ -96,16 +93,24 @@ Real-time sign language recognition using computer vision to break communication
 ## 📊 GitHub Stats
 
 <div align="center">
+  
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Hamdan772&show_icons=true&count_private=true&hide_border=true&title_color=38bdf8&icon_color=38bdf8&text_color=c9d1d9&bg_color=0d1117" alt="Hamdan's GitHub Stats" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Hamdan772&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=c9d1d9&ring_color=38bdf8" alt="GitHub Stats" />
+<img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=Hamdan772&hide_border=true&stroke=0000&background=0d1117&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8&sideNums=c9d1d9&currStreakNum=c9d1d9&dates=c9d1d9&sideLabels=c9d1d9" />
 
-<img width="49%" src="https://streak-stats.demolab.com?user=Hamdan772&theme=radical&hide_border=true&background=0d1117&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8&sideNums=c9d1d9&currStreakNum=c9d1d9&dates=c9d1d9&sideLabels=c9d1d9" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  
+<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamdan772&layout=compact&hide_border=true&title_color=38bdf8&text_color=c9d1d9&bg_color=0d1117&langs_count=8" />
+
+<img width="56%" height="195px" src="https://github-readme-activity-graph.vercel.app/graph?username=Hamdan772&custom_title=Hamdan's%20Contribution%20Graph&bg_color=0d1117&color=38bdf8&line=38bdf8&point=c9d1d9&area_color=0d1117&title_color=38bdf8&area=true&hide_border=true" />
 
 </div>
 
 <div align="center">
 
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamdan772&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=c9d1d9&langs_count=6" alt="Top Languages" />
+![trophy](https://github-profile-trophy.vercel.app/?username=Hamdan772&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)
 
 </div>
 
@@ -134,6 +139,8 @@ Real-time sign language recognition using computer vision to break communication
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
 <br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=ffffff&animation=twinkling&fontAlignY=75" />
 
 ---
 
