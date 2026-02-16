@@ -1,114 +1,67 @@
-<h1 align="center">Hey there 👋 I'm Hamdan</h1>
+<!--
+  🚀 Welcome to Hamdan772’s GitHub Profile
+  This README will show on your GitHub profile if you create
+  a **public repo named exactly `Hamdan772`** and add this file in it.  [oai_citation:1‡GitHub Docs](https://docs.github.com/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme?utm_source=chatgpt.com)
+-->
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=808080&center=true&vCenter=true&width=500&lines=Student+Developer;Turning+Caffeine+into+Code;Building+Ideas+into+Reality" alt="Typing SVG"/>
-</div>
-
-<div align="center">
-  <em>"I turn caffeine ☕ into code... and sometimes it even works."</em>
-</div>
-
----
-
-## About Me 🎓
-
-- 🎓 Student learning by building cool projects  
-- 🔍 Curious about how things work behind the scenes  
-- 🛠️ Breaking code, fixing code, repeating  
-- 🚀 Always working on something new  
-
----
-
-## Featured Projects 🖐️
-
-### ASL Translator
-Real-time sign language translator that converts hand gestures into text.  
-[View on GitHub](https://github.com/Hamdan772/asl-translator)
-
-### SolarVision ☀️
-Machine learning project for predicting solar energy generation.  
-[View on GitHub](https://github.com/Hamdan772/SolarVision)
-
----
-
-## Tech Stack 🛠️
-
-<div align="center">
-  
-**Languages**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-
-**Tools & Frameworks**  
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
-
+  <h1>👋 Hey there, I’m Hamdan772</h1>
+  <p>A passionate developer, problem-solver, and full-stack explorer 🚀</p>
 </div>
 
 ---
 
-## Fun Dev Quotes 💡
+## 🔭 About Me
 
-<div align="center">
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-</div>
-
----
-
-## Currently Leveling Up 📚
-
-- 🧠 Problem-solving skills & algorithms  
-- 🌍 Building smarter real-world projects  
-- 🚀 Learning new technologies  
+- 👨‍💻 I’m currently working on Web & Full-Stack applications  
+- 💡 I love building things that help people & solve real problems  
+- ⚙️ I’m experienced with JavaScript, Python, and modern web stack  
+- 💬 I enjoy writing clean code, learning new tech, and building portfolio projects  
+- 🎧 When not coding — you’ll find me exploring music, tech articles, and open-source trends
 
 ---
 
-## What I'm Listening To 🎵
+## 🛠️ Tech Stack
 
-<div align="center">
+### Languages
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 
-Currently listening to music on Spotify! 🎧  
-[Visit my Spotify Profile](https://open.spotify.com/user/31afc2hzwvufibe2ui4wdi3sruvu)
+### Frontend
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
 
-</div>
-
----
-
-## GitHub Stats 📊
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hamdan772&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Hamdan772&layout=compact&theme=dracula)
-
-</div>
+### Backend & Tools
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)
 
 ---
 
----
+## 📊 GitHub Stats
 
-## Connect With Me 🔗
-
-<div align="center">
-
-[<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>](https://github.com/Hamdan772)
-[<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>](mailto:hamdan.n1786@gmail.com)
-[<img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/>](https://open.spotify.com/user/31afc2hzwvufibe2ui4wdi3sruvu)
-
-</div>
+<!-- Put your GitHub stats here -->
+![Hamdan772 GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hamdan772&show_icons=true&theme=radical)
 
 ---
 
-<div align="center">
+## 🔗 Connect With Me
 
-**Thanks for visiting my profile! Let's build something amazing together!** 🚀
+<p>
+  <a href="https://github.com/Hamdan772">GitHub</a> •
+  <a href="https://linkedin.com/in/Hamdan772">LinkedIn</a> •
+  <a href="mailto:email@example.com">Email</a>
+</p>
 
-<img src="https://komarev.com/ghpvc/?username=Hamdan772&color=blueviolet&style=flat" alt="Profile Views" />
+---
 
-</div>
+## 💬 What I’m Learning
+- Next.js & Server-Side Rendering
+- REST APIs & Backend Optimization
+- DevOps basics with CI/CD pipelines
+
+---
+
+> *“Code is poetry — and every project tells a story.”*  
