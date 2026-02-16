@@ -59,7 +59,6 @@ const hamdan = {
 <table>
 <tr>
 <td width="50%" align="center">
-  <a href="https://github.com/Hamdan772/SolarVision">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hamdan772&repo=SolarVision&theme=transparent&hide_border=true&title_color=38bdf8&text_color=c9d1d9&icon_color=38bdf8&bg_color=0d1117&description_lines_count=3" alt="SolarVision" />
   </a>
   <br><br>
@@ -70,7 +69,6 @@ const hamdan = {
   </p>
 </td>
 <td width="50%" align="center">
-  <a href="https://github.com/Hamdan772/asl-translator">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hamdan772&repo=asl-translator&theme=transparent&hide_border=true&title_color=38bdf8&text_color=c9d1d9&icon_color=38bdf8&bg_color=0d1117&description_lines_count=3" alt="ASL Translator" />
   </a>
   <br><br>
