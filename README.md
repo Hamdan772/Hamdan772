@@ -1,6 +1,9 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hey,%20I'm%20Hamdan!%20👋&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=I%20turn%20caffeine%20into%20code%20☕%20→%20💻&descAlignY=55&descSize=20" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hey,%20I'm%20Hamdan!%20👋&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=I%20turn%20caffeine%20into%20code%20☕%20→%20💻&descAlignY=55&descSize=20">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,4,8&height=180&section=header&text=Hey,%20I'm%20Hamdan!%20👋&fontSize=50&fontColor=1c1c1c&animation=fadeIn&fontAlignY=35&desc=I%20turn%20caffeine%20into%20code%20☕%20→%20💻&descAlignY=55&descSize=20">
+</picture>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Student+Developer+%F0%9F%92%BB;AI+%26+Computer+Vision+Enthusiast+%F0%9F%A4%96;Building+Real-World+Solutions+%F0%9F%9A%80;Making+The+Impossible+Possible+%E2%9C%A8" />
@@ -23,15 +26,54 @@
 const hamdan = {
     location:    "Sharjah, UAE 🇦🇪",
     role:        "Student Developer",
+    education:   "Computer Science",
     focus:       "AI-powered applications",
-    interests:   ["Computer Vision 👁️", "Machine Learning 🤖",
-                  "IoT Systems 🌐", "Automation ⚡"],
+    interests:   [
+        "Computer Vision 👁️",
+        "Machine Learning 🤖",
+        "IoT Systems 🌐",
+        "Automation ⚡"
+    ],
     philosophy:  "Stay consistent. Stay curious. Stay building.",
     funFact:     "☕ + 💻 = 🚀"
 };
 ```
 
 <br clear="right"/>
+
+### 🛠️ I work with these every day
+
+<div align="center">
+
+**Languages**
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,js,cpp,html,css&theme=dark">
+  <img src="https://skillicons.dev/icons?i=python,js,cpp,html,css&theme=light" alt="Python, JavaScript, C++, HTML, CSS" height="48">
+</picture>
+
+**AI & ML**
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=dark">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=light" alt="TensorFlow, PyTorch, OpenCV" height="48">
+</picture>
+&nbsp;
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" height="26"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" height="26"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" height="26"/>
+<img src="https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white" height="26"/>
+
+**Tools & Platforms**
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git,github,vscode,linux,arduino,raspberrypi&theme=dark">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,arduino,raspberrypi&theme=light" alt="Git, GitHub, VS Code, Linux, Arduino, Raspberry Pi" height="48">
+</picture>
+&nbsp;
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" height="26"/>
+
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -42,52 +84,30 @@ const hamdan = {
 <tr>
 <td width="50%" align="center">
   <h3>☀️ SolarVision</h3>
-  <a href="https://github.com/Hamdan772/SolarVision"><img src="https://img.shields.io/badge/View%20Project-38bdf8?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://github.com/Hamdan772/SolarVision">
+    <img src="https://img.shields.io/badge/View%20Project-38bdf8?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
   <p>AI-powered solar panel monitoring with predictive maintenance & real-time analytics using computer vision</p>
-  <code>Python</code> • <code>TensorFlow</code> • <code>OpenCV</code> • <code>IoT</code>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,tensorflow,opencv&theme=dark">
+    <img src="https://skillicons.dev/icons?i=python,tensorflow,opencv&theme=light" height="32">
+  </picture>
+  <br/><sub><code>Python</code> · <code>TensorFlow</code> · <code>OpenCV</code> · <code>IoT</code></sub>
 </td>
 <td width="50%" align="center">
   <h3>🤟 ASL Translator</h3>
-  <a href="https://github.com/Hamdan772/asl-translator"><img src="https://img.shields.io/badge/View%20Project-38bdf8?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <p>Real-time American Sign Language recognition using computer vision & deep learning</p>
-  <code>Python</code> • <code>MediaPipe</code> • <code>Deep Learning</code>
+  <a href="https://github.com/Hamdan772/asl-translator">
+    <img src="https://img.shields.io/badge/View%20Project-38bdf8?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <p>Real-time American Sign Language recognition using computer vision & deep learning to break barriers</p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,pytorch&theme=dark">
+    <img src="https://skillicons.dev/icons?i=python,pytorch&theme=light" height="32">
+  </picture>
+  <br/><sub><code>Python</code> · <code>MediaPipe</code> · <code>Deep Learning</code></sub>
 </td>
 </tr>
 </table>
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-**AI & Machine Learning**
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-
-**Tools & Platforms**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white)
-
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -96,10 +116,20 @@ const hamdan = {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Hamdan772&hide_border=true&stroke=0000&background=0d1117&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8&sideNums=c9d1d9&currStreakNum=c9d1d9&dates=c9d1d9&sideLabels=c9d1d9" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Hamdan772&show_icons=true&theme=github_dark&hide_border=true&icon_color=38bdf8&title_color=38bdf8" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Hamdan772&hide_border=true&stroke=0000&background=0d1117&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8&sideNums=c9d1d9&currStreakNum=c9d1d9&dates=c9d1d9&sideLabels=c9d1d9">
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Hamdan772&hide_border=true&background=ffffff&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8&sideNums=333&currStreakNum=333&dates=555&sideLabels=333">
+</picture>
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Hamdan772&custom_title=Contribution%20Activity&bg_color=0d1117&color=38bdf8&line=38bdf8&point=c9d1d9&area=true&hide_border=true" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Hamdan772&show_icons=true&theme=github_dark&hide_border=true&icon_color=38bdf8&title_color=38bdf8">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Hamdan772&show_icons=true&theme=default&hide_border=true&icon_color=38bdf8&title_color=38bdf8">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Hamdan772&custom_title=Contribution%20Activity&bg_color=0d1117&color=38bdf8&line=38bdf8&point=c9d1d9&area=true&hide_border=true">
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Hamdan772&custom_title=Contribution%20Activity&bg_color=ffffff&color=0d1117&line=38bdf8&point=0d1117&area=true&hide_border=true">
+</picture>
 
 </div>
 
@@ -123,5 +153,10 @@ const hamdan = {
 </div>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20visiting!%20⭐%20Star%20my%20repos!&fontSize=20&fontColor=ffffff&animation=twinkling&fontAlignY=70" />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20visiting!%20⭐%20Star%20my%20repos!&fontSize=20&fontColor=ffffff&animation=twinkling&fontAlignY=70">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,4,8&height=120&section=footer&text=Thanks%20for%20visiting!%20⭐%20Star%20my%20repos!&fontSize=20&fontColor=1c1c1c&animation=twinkling&fontAlignY=70">
+</picture>
+
 </div>
