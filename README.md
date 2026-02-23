@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hamdan&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Student%20Developer%20%7C%20AI%20%26%20Computer%20Vision%20%7C%20Sharjah%2C%20UAE%20%F0%9F%87%A6%F0%9F%87%AA&descAlignY=60&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hey,%20I'm%20Hamdan!%20👋&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=I%20turn%20caffeine%20into%20code%20☕%20→%20💻&descAlignY=55&descSize=20" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=700&lines=AI+Engineer+in+the+making+%F0%9F%A4%96;Computer+Vision+%7C+Deep+Learning+%7C+IoT;%24+python+main.py+--mode=build_the_future;%24+echo+%22Stay+curious.+Stay+building.%22" />
