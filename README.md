@@ -17,47 +17,48 @@
 
 ## 💫 About Me
 
-<img align="right" alt="Coding" width="360" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
+<img align="right" alt="Coding" width="340" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
 
-```typescript
-const hamdan = {
-    location:  "Sharjah, UAE 🇦🇪",
-    role:      "Student Developer",
-    education: "Computer Science",
-    focus:     "AI-powered applications",
-    interests: [
-        "Computer Vision 👁️",
-        "Machine Learning 🤖",
-        "IoT Systems 🌐",
-        "Automation ⚡"
-    ],
-    philosophy: "Stay consistent. Stay curious. Stay building.",
-    funFact:    "☕ + 💻 = 🚀"
-};
-```
+### 👨‍💻 Who am I?
+
+🎓 &nbsp;Computer Science student based in **Sharjah, UAE** 🇦🇪  
+🔭 &nbsp;Currently building **AI-powered & IoT applications**  
+🧠 &nbsp;Passionate about **Computer Vision** and **Deep Learning**  
+⚡ &nbsp;Love turning ideas into real-world solutions  
+☕ &nbsp;Fuel: Coffee → Code → Repeat  
+
+### 🎯 What I'm focused on
+
+- 👁️ &nbsp;**Computer Vision** — real-time detection & recognition systems  
+- 🤖 &nbsp;**Machine Learning** — training models that actually work  
+- 🌐 &nbsp;**IoT Systems** — connecting the physical and digital world  
+- ⚡ &nbsp;**Automation** — building things that run themselves  
+
+> *"Stay consistent. Stay curious. Stay building."* 🚀
 
 <br clear="right"/>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🛠️ Tech Stack
+
 <div align="center">
 
-**Languages**
-
+### Languages
 <img src="https://skillicons.dev/icons?i=python,js,cpp,html,css" height="48" />
 
-**AI & ML**
-
+### AI & Machine Learning
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" height="48" />
-&nbsp;
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" height="26"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" height="26"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" height="26"/>
-<img src="https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white" height="26"/>
+<br/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-4DABCF?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-130654?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/MediaPipe-00897B?style=for-the-badge&logo=google&logoColor=white" />
 
-**Tools & Platforms**
-
+### Tools & Platforms
 <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,arduino,raspberrypi" height="48" />
-&nbsp;
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" height="26"/>
+<br/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
 
 </div>
 
@@ -99,7 +100,7 @@ const hamdan = {
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Hamdan772&hide_border=true&stroke=0000&background=0d1117&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8&sideNums=c9d1d9&currStreakNum=c9d1d9&dates=c9d1d9&sideLabels=c9d1d9" />
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Hamdan772&show_icons=true&theme=github_dark&hide_border=true&icon_color=38bdf8&title_color=38bdf8" />
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Hamdan772&custom_title=Contribution%20Activity&bg_color=0d1117&color=38bdf8&line=38bdf8&point=c9d1d9&area=true&hide_border=true" />
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Hamdan772&custom_title=Hamdan%27s%20Contribution%20Activity&bg_color=0d1117&color=38bdf8&line=38bdf8&point=ffffff&area=true&hide_border=true" />
 
 </div>
 
