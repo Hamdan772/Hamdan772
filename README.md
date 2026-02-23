@@ -21,21 +21,21 @@
 
 ```yaml
 ┌──────────────────────────────────────────────────────┐
-│                  hamdan@uae:~$ neofetch               │
+│                  hamdan@uae:~$ neofetch              │
 ├─────────────────┬────────────────────────────────────┤
-│                 │                                     │
-│   ██╗  ██╗      │  user     : Hamdan                  │
-│   ██║  ██║      │  role     : Student Developer       │
-│   ███████║      │  location : Sharjah, UAE 🇦🇪         │
-│   ██╔══██║      │  focus    : AI + Computer Vision    │
-│   ██║  ██║      │  status   : Building cool stuff ⚡  │
-│   ╚═╝  ╚═╝      │  uptime   : 20 years                │
-│                 │  coffee   : ∞ cups/day ☕            │
+│                 │                                    │
+│   ██╗  ██╗      │  user     : Hamdan                 │
+│   ██║  ██║      │  role     : Student Developer      │
+│   ███████║      │  location : Sharjah, UAE 🇦🇪        │
+│   ██╔══██║      │  focus    : AI + Computer Vision   │
+│   ██║  ██║      │  status   : Building cool stuff ⚡ │
+│   ╚═╝  ╚═╝      │  uptime   : 20 years               │
+│                 │  coffee   : ∞ cups/day ☕          │
 ├─────────────────┴────────────────────────────────────┤
 │  OS        : UAE-Linux 🇦🇪 (Sharjah build)            │
 │  Shell     : Python 3.x  |  zsh                      │
 │  Editor    : VS Code  |  Jupyter                     │
-│  Interests : CV • ML • IoT • Automation               │
+│  Interests : CV • ML • IoT • Automation              │
 └──────────────────────────────────────────────────────┘
 ```
 
