@@ -26,34 +26,13 @@
 
 ---
 
-##  GitHub Stats
+## 📊 GitHub Stats & Activity
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Hamdan772&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=818cf8&text_color=c9d1d9&ring_color=38bdf8" alt="Hamdan's GitHub Stats"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Hamdan772&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=21262d&ring=38bdf8&fire=c084fc&currStreakLabel=38bdf8&sideLabels=c9d1d9&dates=8b949e" alt="Hamdan's Streak"/>
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Hamdan772&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=21262d&ring=38bdf8&fire=c084fc&currStreakLabel=38bdf8&sideLabels=c9d1d9&dates=8b949e" alt="Hamdan's Streak"/>
 
-<br/>
-
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamdan772&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=c9d1d9" alt="Top Languages"/>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Hamdan772&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
+<br/><br/>
 
 [![Hamdan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Hamdan772&theme=github-compact&hide_border=true&bg_color=0d1117&color=38bdf8&line=818cf8&point=c084fc&area=true&area_color=38bdf8)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
