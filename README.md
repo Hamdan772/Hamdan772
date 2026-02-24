@@ -18,27 +18,9 @@
 
 <div align="center">
 
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,html,css,cpp&theme=dark" alt="Languages" />
-</a>
-
-<br/>
-
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=pytorch,opencv,numpy,tensorflow&theme=dark" alt="AI / ML" />
-</a>
-
-<br/>
-
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi&theme=dark" alt="IoT & Hardware" />
-</a>
-
-<br/>
-
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker,bash&theme=dark" alt="Tools & Platforms" />
-</a>
+| **Languages** | **AI / ML** | **IoT & Hardware** | **Tools & Platforms** |
+|:---:|:---:|:---:|:---:|
+| <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,js,ts,html,css,cpp&theme=dark&perline=3" alt="Languages" /></a> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=pytorch,opencv,numpy,tensorflow&theme=dark&perline=2" alt="AI / ML" /></a> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=arduino,raspberrypi&theme=dark&perline=2" alt="IoT & Hardware" /></a> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker,bash&theme=dark&perline=3" alt="Tools & Platforms" /></a> |
 
 </div>
 
@@ -99,9 +81,17 @@
 
 <br/><br/>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="60%"/>
+
+<br/><br/>
+
 **💬 "I write code that works... sometimes on the first try."**
 
-<br/>
+<br/><br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="60%"/>
+
+<br/><br/>
 
 ⭐ From [Hamdan772](https://github.com/Hamdan772)
 
