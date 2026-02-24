@@ -25,45 +25,13 @@
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,js,ts,html,css,cpp&theme=dark&perline=6">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,html,css,cpp&theme=light&perline=6" alt="Languages"/>
-</picture>
-
-**Languages**
-
-<br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=pytorch,opencv,numpy,tensorflow&theme=dark&perline=4">
-  <img src="https://skillicons.dev/icons?i=pytorch,opencv,numpy,tensorflow&theme=light&perline=4" alt="AI / ML"/>
-</picture>
-
-**AI / ML**
-
-<br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=arduino,raspberrypi&theme=dark&perline=2">
-  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi&theme=light&perline=2" alt="IoT & Hardware"/>
-</picture>
-
-**IoT & Hardware**
-
-<br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git,github,vscode,linux,docker,bash&theme=dark&perline=6">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker,bash&theme=light&perline=6" alt="Tools & Platforms"/>
-</picture>
-
-**Tools & Platforms**
+| **Languages** | **AI / ML** | **IoT & Hardware** | **Tools & Platforms** |
+|:---:|:---:|:---:|:---:|
+| <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,js,ts,html,css,cpp&theme=dark&perline=3"><img src="https://skillicons.dev/icons?i=python,js,ts,html,css,cpp&theme=light&perline=3" alt="Languages"/></picture> | <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=pytorch,opencv,numpy,tensorflow&theme=dark&perline=2"><img src="https://skillicons.dev/icons?i=pytorch,opencv,numpy,tensorflow&theme=light&perline=2" alt="AI / ML"/></picture> | <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=arduino,raspberrypi&theme=dark&perline=2"><img src="https://skillicons.dev/icons?i=arduino,raspberrypi&theme=light&perline=2" alt="IoT & Hardware"/></picture> | <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git,github,vscode,linux,docker,bash&theme=dark&perline=3"><img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker,bash&theme=light&perline=3" alt="Tools & Platforms"/></picture> |
 
 </div>
 
 ---
-
-## 📊 GitHub Stats
 
 <div align="center">
 
@@ -77,8 +45,6 @@
 ---
 
 <div align="center">
-
-### 🐍 Watch my contributions get eaten!
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hamdan772/Hamdan772/output/github-snake-dark.svg"/>
