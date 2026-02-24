@@ -9,7 +9,6 @@
 <br/>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Hamdan772&style=for-the-badge&color=38bdf8&labelColor=0d1117&label=PROFILE+VIEWS)](https://github.com/Hamdan772)
-[![Followers](https://img.shields.io/github/followers/Hamdan772?label=FOLLOWERS&style=for-the-badge&color=38bdf8&labelColor=0d1117&logo=github)](https://github.com/Hamdan772?tab=followers)
 
 </div>
 
@@ -18,23 +17,23 @@
 ## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" height="28"/> &nbsp;whoami
 
 ```
-╔══════════════════════════════════════════════════════════════╗
-║  hamdan@macbook ~ % neofetch                                 ║
-╠══════════════════════╦═══════════════════════════════════════╣
-║                      ║                                       ║
-║   ██╗  ██╗           ║   user      :  Hamdan                 ║
-║   ██║  ██║           ║   role      :  Student Developer      ║
-║   ███████║           ║   location  :  Sharjah, UAE  🇦🇪       ║
-║   ██╔══██║           ║   os        :  macOS  🍎               ║
-║   ██║  ██║           ║   uptime    :  14 years               ║
-║   ╚═╝  ╚═╝           ║   shell     :  zsh  +  python3        ║
-║                      ║   editor    :  VS Code  |  Jupyter    ║
-║                      ║   coffee    :  ∞ cups / day  ☕        ║
-╠══════════════════════╩═══════════════════════════════════════╣
-║   focus      :  AI  +  Computer Vision  +  IoT               ║
-║   status     :  Building real-world solutions  ⚡             ║
-║   interests  :  CV  •  ML  •  Deep Learning  •  Automation   ║
-╚══════════════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════╗
+║  hamdan@macbook ~ % neofetch                             ║
+╠═══════════════════╦══════════════════════════════════════╣
+║                   ║                                      ║
+║   ██╗  ██╗        ║   user      :  Hamdan                ║
+║   ██║  ██║        ║   role      :  Student Developer     ║
+║   ███████║        ║   location  :  Sharjah, UAE          ║
+║   ██╔══██║        ║   os        :  macOS                 ║
+║   ██║  ██║        ║   uptime    :  14 years              ║
+║   ╚═╝  ╚═╝        ║   shell     :  zsh  +  python3       ║
+║                   ║   editor    :  VS Code  |  Jupyter   ║
+║                   ║   coffee    :  infinite cups/day     ║
+╠═══════════════════╩══════════════════════════════════════╣
+║   focus      :  AI  +  Computer Vision  +  IoT           ║
+║   status     :  Building real-world solutions            ║
+║   interests  :  CV  .  ML  .  Deep Learning  .  IoT      ║
+╚══════════════════════════════════════════════════════════╝
 ```
 
 ```diff
@@ -63,11 +62,17 @@ $ ls -la ~/skills/
 
 <div align="center">
 
-| Category | Technologies |
-|:---:|:---:|
-| **Languages** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="40" title="Python"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="40" title="JavaScript"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="40" title="C++"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="40" title="HTML5"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="40" title="CSS3"/> |
-| **AI & ML** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" height="40" title="TensorFlow"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" height="40" title="PyTorch"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg" height="40" title="OpenCV"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" height="40" title="scikit-learn"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" height="40" title="NumPy"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" height="40" title="Pandas"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" height="40" title="Jupyter"/> |
-| **Tools & Platforms** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="40" title="Git"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" height="40" title="GitHub"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="40" title="VS Code"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height="40" title="Linux"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" height="40" title="Arduino"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg" height="40" title="Raspberry Pi"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" height="40" title="Anaconda"/> |
+| 🐍 Python | 🌐 JavaScript | ⚙️ C++ | 🧱 HTML5 | 🎨 CSS3 | 🔶 TensorFlow | 🔥 PyTorch | 👁️ OpenCV |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="45"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="45"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="45"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="45"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="45"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" height="45"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" height="45"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg" height="45"/> |
+
+| 🧮 scikit-learn | 🔢 NumPy | 🐼 Pandas | 📓 Jupyter | 🐙 Git | 🐱 GitHub | 💻 VS Code | 🐧 Linux |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" height="45"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" height="45"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" height="45"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" height="45"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="45"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" height="45"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="45"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height="45"/> |
+
+| 🤖 Arduino | 🍓 Raspberry Pi | 🐍 Anaconda |
+|:---:|:---:|:---:|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" height="45"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg" height="45"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" height="45"/> |
 
 </div>
 
@@ -130,10 +135,7 @@ $ gh stats --user Hamdan772 --verbose
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Hamdan772&hide_border=true&stroke=38bdf8&background=0d1117&ring=38bdf8&fire=f97316&currStreakLabel=38bdf8&sideNums=c9d1d9&currStreakNum=f0f6fc&dates=8b949e&sideLabels=8b949e" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamdan772&layout=compact&theme=github_dark&hide_border=true&title_color=38bdf8&bg_color=0d1117&text_color=c9d1d9" />
-
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Hamdan772&custom_title=Hamdan%27s%20Contribution%20Graph&bg_color=0d1117&color=38bdf8&line=38bdf8&point=f0f6fc&area_color=38bdf820&area=true&hide_border=true&radius=8" />
+<img width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=Hamdan772&hide_border=true&stroke=38bdf8&background=0d1117&ring=38bdf8&fire=f97316&currStreakLabel=38bdf8&sideNums=c9d1d9&currStreakNum=f0f6fc&dates=8b949e&sideLabels=8b949e" />
 
 </div>
 
