@@ -7,8 +7,15 @@
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GITHUB-Hamdan772-0d1117?style=for-the-badge&logo=github&logoColor=38bdf8&labelColor=0d1117)](https://github.com/Hamdan772)
-[![Email](https://img.shields.io/badge/EMAIL-hamdan.n1786@gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=0d1117)](mailto:hamdan.n1786@gmail.com)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/GITHUB-Hamdan772-0d1117?style=for-the-badge&logo=github&logoColor=38bdf8&labelColor=0d1117">
+  <img src="https://img.shields.io/badge/GITHUB-Hamdan772-f6f8fa?style=for-the-badge&logo=github&logoColor=0969da&labelColor=f6f8fa" alt="GitHub"/>
+</picture>
+<a href="https://github.com/Hamdan772"> </a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/EMAIL-hamdan.n1786@gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=0d1117">
+  <img src="https://img.shields.io/badge/EMAIL-hamdan.n1786@gmail.com-f6f8fa?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=f6f8fa" alt="Email"/>
+</picture>
 
 </div>
 
@@ -18,23 +25,52 @@
 
 <div align="center">
 
-| **Languages** | **AI / ML** | **IoT & Hardware** | **Tools & Platforms** |
-|:---:|:---:|:---:|:---:|
-| <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,js,ts,html,css,cpp&theme=dark&perline=3" alt="Languages" /></a> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=pytorch,opencv,numpy,tensorflow&theme=dark&perline=2" alt="AI / ML" /></a> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=arduino,raspberrypi&theme=dark&perline=2" alt="IoT & Hardware" /></a> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker,bash&theme=dark&perline=3" alt="Tools & Platforms" /></a> |
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,js,ts,html,css,cpp&theme=dark&perline=6">
+  <img src="https://skillicons.dev/icons?i=python,js,ts,html,css,cpp&theme=light&perline=6" alt="Languages"/>
+</picture>
+
+**Languages**
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=pytorch,opencv,numpy,tensorflow&theme=dark&perline=4">
+  <img src="https://skillicons.dev/icons?i=pytorch,opencv,numpy,tensorflow&theme=light&perline=4" alt="AI / ML"/>
+</picture>
+
+**AI / ML**
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=arduino,raspberrypi&theme=dark&perline=2">
+  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi&theme=light&perline=2" alt="IoT & Hardware"/>
+</picture>
+
+**IoT & Hardware**
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git,github,vscode,linux,docker,bash&theme=dark&perline=6">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker,bash&theme=light&perline=6" alt="Tools & Platforms"/>
+</picture>
+
+**Tools & Platforms**
 
 </div>
 
 ---
 
-## 📊 GitHub Stats & Activity
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Hamdan772&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=21262d&ring=38bdf8&fire=c084fc&currStreakLabel=38bdf8&sideLabels=c9d1d9&dates=8b949e" alt="Hamdan's Streak"/>
-
-<br/><br/>
-
-[![Hamdan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Hamdan772&theme=github-compact&hide_border=true&bg_color=0d1117&color=38bdf8&line=818cf8&point=c084fc&area=true&area_color=38bdf8)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Hamdan772&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=21262d&ring=38bdf8&fire=c084fc&currStreakLabel=38bdf8&sideLabels=c9d1d9&dates=8b949e">
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Hamdan772&theme=default&hide_border=true&background=ffffff&stroke=d0d7de&ring=0969da&fire=8250df&currStreakLabel=0969da&sideLabels=1f2328&dates=656d76" alt="Hamdan's Streak"/>
+</picture>
 
 </div>
 
@@ -56,21 +92,12 @@
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Hamdan772&style=for-the-badge&color=38bdf8&labelColor=0d1117" alt="Profile Views"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://komarev.com/ghpvc/?username=Hamdan772&style=for-the-badge&color=38bdf8&labelColor=0d1117">
+  <img src="https://komarev.com/ghpvc/?username=Hamdan772&style=for-the-badge&color=0969da&labelColor=f6f8fa" alt="Profile Views"/>
+</picture>
 
-<br/><br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="60%"/>
-
-<br/><br/>
-
-**💬 "I write code that works... sometimes on the first try."**
-
-<br/><br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="60%"/>
-
-<br/><br/>
+<br/>
 
 ⭐ From [Hamdan772](https://github.com/Hamdan772)
 
