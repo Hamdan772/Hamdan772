@@ -2,8 +2,8 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hey,%20I'm%20Hamdan!%20👋&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=I%20turn%20caffeine%20into%20code%20☕%20→%20💻&descAlignY=55&descSize=20" />
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2800&pause=1200&color=38BDF8&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Hamdan!+%F0%9F%91%8B;CS+Student+%C2%B7+Sharjah%2C+UAE+%F0%9F%87%A6%F0%9F%87%AA;I+build+AI+that+sees+%F0%9F%91%81%EF%B8%8F;Computer+Vision+%C2%B7+Deep+Learning;I+connect+code+to+hardware+%F0%9F%94%8C;IoT+%C2%B7+Arduino+%C2%B7+Raspberry+Pi;Always+building.+Always+learning.+%F0%9F%9A%80" alt="Typing SVG" />
+<a href="https://github.com/Hamdan772">
+  <img width="100%" src="https://raw.githubusercontent.com/Hamdan772/Hamdan772/main/header.svg" alt="Hamdan's animated intro"/>
 </a>
 
 <br/>
