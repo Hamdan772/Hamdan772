@@ -19,6 +19,13 @@
   </picture>
 </a>
 
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://komarev.com/ghpvc/?username=Hamdan772&style=for-the-badge&color=38bdf8&labelColor=0d1117">
+  <img src="https://komarev.com/ghpvc/?username=Hamdan772&style=for-the-badge&color=0969da&labelColor=f6f8fa" alt="Profile Views"/>
+</picture>
+
 | **Languages** | **AI / ML** | **IoT & Hardware** | **Tools & Platforms** |
 |:---:|:---:|:---:|:---:|
 | <img src="https://skillicons.dev/icons?i=python,js,ts,html,css,cpp&theme=dark&perline=3" alt="Languages"/> | <img src="https://skillicons.dev/icons?i=pytorch,opencv,numpy,tensorflow&theme=dark&perline=2" alt="AI / ML"/> | <img src="https://skillicons.dev/icons?i=arduino,raspberrypi&theme=dark&perline=2" alt="IoT & Hardware"/> | <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker,bash&theme=dark&perline=3" alt="Tools & Platforms"/> |
@@ -37,14 +44,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hamdan772/Hamdan772/output/github-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hamdan772/Hamdan772/output/github-snake.svg"/>
-  <img width="58%" alt="github-snake" src="https://raw.githubusercontent.com/Hamdan772/Hamdan772/output/github-snake.svg"/>
-</picture>
-
-<br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://komarev.com/ghpvc/?username=Hamdan772&style=for-the-badge&color=38bdf8&labelColor=0d1117">
-  <img src="https://komarev.com/ghpvc/?username=Hamdan772&style=for-the-badge&color=0969da&labelColor=f6f8fa" alt="Profile Views"/>
+  <img width="70%" alt="github-snake" src="https://raw.githubusercontent.com/Hamdan772/Hamdan772/output/github-snake.svg"/>
 </picture>
 
 </div>
