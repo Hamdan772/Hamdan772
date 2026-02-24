@@ -103,8 +103,8 @@
 </circle>
 
 <!-- Accent line + shimmer -->
-<rect x="460" y="348" width="1000" height="2.5" rx="1.25" fill="url(#accent)" opacity="0.35"/>
-<rect x="460" y="348" width="1000" height="2.5" rx="1.25" fill="url(#shimmer)"/>
+<rect x="560" y="300" width="800" height="2.5" rx="1.25" fill="url(#accent)" opacity="0.35"/>
+<rect x="560" y="300" width="800" height="2.5" rx="1.25" fill="url(#shimmer)"/>
 
 <style>
   .h1 { font-family: "Helvetica Neue",Helvetica,Arial,sans-serif; font-size: 72px; font-weight: 800; fill: #f0f6fc; text-anchor: middle; dominant-baseline: middle; letter-spacing: -1.5px; }
@@ -125,29 +125,29 @@
 
 <!-- 0 — Intro -->
 <g class="sc0">
-  <text x="960" y="230" class="h1">Hey, I'm Hamdan 👋</text>
-  <text x="960" y="390" class="h2">CS Student · Builder · AI Explorer</text>
-  <text x="960" y="455" class="h3">Sharjah, UAE 🇦🇪</text>
+  <text x="960" y="240" class="h1">Hey, I'm Hamdan 👋</text>
+  <text x="960" y="345" class="h2">CS Student · Builder · AI Explorer</text>
+  <text x="960" y="400" class="h3">Sharjah, UAE 🇦🇪</text>
 </g>
 
 <!-- 1 — AI -->
 <g class="sc1">
-  <text x="960" y="230" class="h1">I build AI that sees the world 👁️</text>
-  <text x="960" y="390" class="h2">Computer Vision · Deep Learning · PyTorch</text>
-  <text x="960" y="455" class="h3">From pixels to predictions</text>
+  <text x="960" y="240" class="h1">I build AI that sees the world 👁️</text>
+  <text x="960" y="345" class="h2">Computer Vision · Deep Learning · PyTorch</text>
+  <text x="960" y="400" class="h3">From pixels to predictions</text>
 </g>
 
 <!-- 2 — Hardware -->
 <g class="sc2">
-  <text x="960" y="230" class="h1">I connect code to hardware ⚡</text>
-  <text x="960" y="390" class="h2">IoT · Arduino · Raspberry Pi · Edge AI</text>
-  <text x="960" y="455" class="h3">Bridging software and the physical world</text>
+  <text x="960" y="240" class="h1">I connect code to hardware ⚡</text>
+  <text x="960" y="345" class="h2">IoT · Arduino · Raspberry Pi · Edge AI</text>
+  <text x="960" y="400" class="h3">Bridging software and the physical world</text>
 </g>
 
 <!-- 3 — Closing -->
 <g class="sc3">
-  <text x="960" y="230" class="h1">Always building. Always learning. 🚀</text>
-  <text x="960" y="390" class="h2">Open Source · Full Stack · Innovation</text>
-  <text x="960" y="455" class="h3">Stay consistent · Stay curious</text>
+  <text x="960" y="240" class="h1">Always building. Always learning. 🚀</text>
+  <text x="960" y="345" class="h2">Open Source · Full Stack · Innovation</text>
+  <text x="960" y="400" class="h3">Stay consistent · Stay curious</text>
 </g>
 </svg>

@@ -37,34 +37,24 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Hamdan772&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=21262d&ring=38bdf8&fire=c084fc&currStreakLabel=38bdf8&sideLabels=c9d1d9&dates=8b949e">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Hamdan772&theme=default&hide_border=true&background=ffffff&stroke=d0d7de&ring=0969da&fire=8250df&currStreakLabel=0969da&sideLabels=1f2328&dates=656d76" alt="Hamdan's Streak"/>
+  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Hamdan772&theme=default&hide_border=true&background=ffffff&stroke=d0d7de&ring=0969da&fire=8250df&currStreakLabel=0969da&sideLabels=1f2328&dates=656d76" alt="Hamdan's Streak"/>
 </picture>
 
 </div>
-
----
 
 <div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hamdan772/Hamdan772/output/github-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hamdan772/Hamdan772/output/github-snake.svg"/>
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Hamdan772/Hamdan772/output/github-snake.svg"/>
+  <img width="60%" alt="github-snake" src="https://raw.githubusercontent.com/Hamdan772/Hamdan772/output/github-snake.svg"/>
 </picture>
 
-</div>
-
----
-
-<div align="center">
+<br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://komarev.com/ghpvc/?username=Hamdan772&style=for-the-badge&color=38bdf8&labelColor=0d1117">
   <img src="https://komarev.com/ghpvc/?username=Hamdan772&style=for-the-badge&color=0969da&labelColor=f6f8fa" alt="Profile Views"/>
 </picture>
-
-<br/>
-
-⭐ From [Hamdan772](https://github.com/Hamdan772)
 
 </div>
