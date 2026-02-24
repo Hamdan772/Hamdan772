@@ -70,36 +70,36 @@
 
 <!-- Floating orbs -->
 <circle cx="180" cy="140" r="3" fill="#0ea5e9" opacity="0" filter="url(#softglow)">
-  <animate attributeName="cy" values="140;120;140" dur="7s" repeatCount="indefinite" calcMode="spline" keySplines="0.45 0 0.55 1;0.45 0 0.55 1"/>
-  <animate attributeName="opacity" values="0.1;0.35;0.1" dur="7s" repeatCount="indefinite" calcMode="spline" keySplines="0.45 0 0.55 1;0.45 0 0.55 1"/>
+  <animate attributeName="cy" values="140;135;128;122;118;116;118;122;128;135;140" dur="7s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1"/>
+  <animate attributeName="opacity" values="0.1;0.18;0.26;0.32;0.35;0.32;0.26;0.18;0.1" dur="7s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1"/>
 </circle>
 <circle cx="440" cy="470" r="2" fill="#6366f1" opacity="0" filter="url(#softglow)">
-  <animate attributeName="cy" values="470;448;470" dur="8.5s" repeatCount="indefinite" calcMode="spline" keySplines="0.45 0 0.55 1;0.45 0 0.55 1"/>
-  <animate attributeName="opacity" values="0.08;0.3;0.08" dur="8.5s" repeatCount="indefinite" calcMode="spline" keySplines="0.45 0 0.55 1;0.45 0 0.55 1"/>
+  <animate attributeName="cy" values="470;465;458;452;448;446;448;452;458;465;470" dur="8.5s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1"/>
+  <animate attributeName="opacity" values="0.08;0.14;0.22;0.28;0.3;0.28;0.22;0.14;0.08" dur="8.5s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1"/>
 </circle>
 <circle cx="780" cy="100" r="1.5" fill="#a855f7" opacity="0" filter="url(#softglow)">
-  <animate attributeName="cy" values="100;82;100" dur="6s" repeatCount="indefinite" calcMode="spline" keySplines="0.45 0 0.55 1;0.45 0 0.55 1"/>
-  <animate attributeName="opacity" values="0.06;0.28;0.06" dur="6s" repeatCount="indefinite" calcMode="spline" keySplines="0.45 0 0.55 1;0.45 0 0.55 1"/>
+  <animate attributeName="cy" values="100;96;90;85;82;80;82;85;90;96;100" dur="6s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1"/>
+  <animate attributeName="opacity" values="0.06;0.12;0.2;0.26;0.28;0.26;0.2;0.12;0.06" dur="6s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1"/>
 </circle>
 <circle cx="1150" cy="500" r="2.5" fill="#0ea5e9" opacity="0" filter="url(#softglow)">
-  <animate attributeName="cy" values="500;478;500" dur="7.5s" repeatCount="indefinite" calcMode="spline" keySplines="0.45 0 0.55 1;0.45 0 0.55 1"/>
-  <animate attributeName="opacity" values="0.08;0.32;0.08" dur="7.5s" repeatCount="indefinite" calcMode="spline" keySplines="0.45 0 0.55 1;0.45 0 0.55 1"/>
+  <animate attributeName="cy" values="500;496;490;484;480;478;480;484;490;496;500" dur="7.5s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1"/>
+  <animate attributeName="opacity" values="0.08;0.15;0.24;0.3;0.32;0.3;0.24;0.15;0.08" dur="7.5s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1"/>
 </circle>
 <circle cx="1450" cy="130" r="2" fill="#a855f7" opacity="0" filter="url(#softglow)">
-  <animate attributeName="cy" values="130;112;130" dur="9s" repeatCount="indefinite" calcMode="spline" keySplines="0.45 0 0.55 1;0.45 0 0.55 1"/>
-  <animate attributeName="opacity" values="0.06;0.3;0.06" dur="9s" repeatCount="indefinite" calcMode="spline" keySplines="0.45 0 0.55 1;0.45 0 0.55 1"/>
+  <animate attributeName="cy" values="130;126;121;116;113;111;113;116;121;126;130" dur="9s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1"/>
+  <animate attributeName="opacity" values="0.06;0.12;0.2;0.28;0.3;0.28;0.2;0.12;0.06" dur="9s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1"/>
 </circle>
 <circle cx="1720" cy="380" r="1.8" fill="#6366f1" opacity="0" filter="url(#softglow)">
-  <animate attributeName="cy" values="380;360;380" dur="6.5s" repeatCount="indefinite" calcMode="spline" keySplines="0.45 0 0.55 1;0.45 0 0.55 1"/>
-  <animate attributeName="opacity" values="0.08;0.3;0.08" dur="6.5s" repeatCount="indefinite" calcMode="spline" keySplines="0.45 0 0.55 1;0.45 0 0.55 1"/>
+  <animate attributeName="cy" values="380;376;370;365;362;360;362;365;370;376;380" dur="6.5s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1"/>
+  <animate attributeName="opacity" values="0.08;0.14;0.22;0.28;0.3;0.28;0.22;0.14;0.08" dur="6.5s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1"/>
 </circle>
 <circle cx="350" cy="300" r="1.2" fill="#0ea5e9" opacity="0">
-  <animate attributeName="cy" values="300;285;300" dur="5.5s" repeatCount="indefinite" calcMode="spline" keySplines="0.45 0 0.55 1;0.45 0 0.55 1"/>
-  <animate attributeName="opacity" values="0.05;0.2;0.05" dur="5.5s" repeatCount="indefinite" calcMode="spline" keySplines="0.45 0 0.55 1;0.45 0 0.55 1"/>
+  <animate attributeName="cy" values="300;296;292;288;285;284;285;288;292;296;300" dur="5.5s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1"/>
+  <animate attributeName="opacity" values="0.05;0.09;0.14;0.18;0.2;0.18;0.14;0.09;0.05" dur="5.5s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1"/>
 </circle>
 <circle cx="1600" cy="220" r="1" fill="#a855f7" opacity="0">
-  <animate attributeName="cy" values="220;207;220" dur="6.2s" repeatCount="indefinite" calcMode="spline" keySplines="0.45 0 0.55 1;0.45 0 0.55 1"/>
-  <animate attributeName="opacity" values="0.04;0.18;0.04" dur="6.2s" repeatCount="indefinite" calcMode="spline" keySplines="0.45 0 0.55 1;0.45 0 0.55 1"/>
+  <animate attributeName="cy" values="220;217;214;210;208;207;208;210;214;217;220" dur="6.2s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1"/>
+  <animate attributeName="opacity" values="0.04;0.08;0.12;0.16;0.18;0.16;0.12;0.08;0.04" dur="6.2s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1"/>
 </circle>
 
 <!-- Accent line + shimmer -->
@@ -111,16 +111,64 @@
   .h2 { font-family: "Helvetica Neue",Helvetica,Arial,sans-serif; font-size: 30px; font-weight: 400; fill: #0969da; text-anchor: middle; dominant-baseline: middle; letter-spacing: 1.5px; }
   .h3 { font-family: "Helvetica Neue",Helvetica,Arial,sans-serif; font-size: 20px; font-weight: 300; fill: #656d76; text-anchor: middle; dominant-baseline: middle; letter-spacing: 3px; text-transform: uppercase; }
 
-  /* 4 scenes @ 20s total — each scene 5s, smooth crossfade */
-  @keyframes s0 { 0%{opacity:0;transform:translateY(14px)} 3%,20%{opacity:1;transform:translateY(0)} 24%,100%{opacity:0;transform:translateY(-10px)} }
-  @keyframes s1 { 0%,24%{opacity:0;transform:translateY(14px)} 28%,45%{opacity:1;transform:translateY(0)} 49%,100%{opacity:0;transform:translateY(-10px)} }
-  @keyframes s2 { 0%,49%{opacity:0;transform:translateY(14px)} 53%,70%{opacity:1;transform:translateY(0)} 74%,100%{opacity:0;transform:translateY(-10px)} }
-  @keyframes s3 { 0%,74%{opacity:0;transform:translateY(14px)} 78%,95%{opacity:1;transform:translateY(0)} 99%,100%{opacity:0;transform:translateY(-10px)} }
+  /* 4 scenes @ 20s — ultra-smooth 240fps-grade transitions with many keyframe steps */
+  @keyframes s0 {
+    0%      { opacity: 0;    transform: translateY(10px); }
+    1%      { opacity: 0.1;  transform: translateY(8px); }
+    2%      { opacity: 0.3;  transform: translateY(5px); }
+    3%      { opacity: 0.6;  transform: translateY(2px); }
+    4%      { opacity: 0.85; transform: translateY(0.5px); }
+    5%,20%  { opacity: 1;    transform: translateY(0); }
+    21%     { opacity: 0.85; transform: translateY(-0.5px); }
+    22%     { opacity: 0.6;  transform: translateY(-2px); }
+    23%     { opacity: 0.3;  transform: translateY(-4px); }
+    24%     { opacity: 0.1;  transform: translateY(-6px); }
+    25%,100%{ opacity: 0;    transform: translateY(-8px); }
+  }
+  @keyframes s1 {
+    0%,25%  { opacity: 0;    transform: translateY(10px); }
+    26%     { opacity: 0.1;  transform: translateY(8px); }
+    27%     { opacity: 0.3;  transform: translateY(5px); }
+    28%     { opacity: 0.6;  transform: translateY(2px); }
+    29%     { opacity: 0.85; transform: translateY(0.5px); }
+    30%,45% { opacity: 1;    transform: translateY(0); }
+    46%     { opacity: 0.85; transform: translateY(-0.5px); }
+    47%     { opacity: 0.6;  transform: translateY(-2px); }
+    48%     { opacity: 0.3;  transform: translateY(-4px); }
+    49%     { opacity: 0.1;  transform: translateY(-6px); }
+    50%,100%{ opacity: 0;    transform: translateY(-8px); }
+  }
+  @keyframes s2 {
+    0%,50%  { opacity: 0;    transform: translateY(10px); }
+    51%     { opacity: 0.1;  transform: translateY(8px); }
+    52%     { opacity: 0.3;  transform: translateY(5px); }
+    53%     { opacity: 0.6;  transform: translateY(2px); }
+    54%     { opacity: 0.85; transform: translateY(0.5px); }
+    55%,70% { opacity: 1;    transform: translateY(0); }
+    71%     { opacity: 0.85; transform: translateY(-0.5px); }
+    72%     { opacity: 0.6;  transform: translateY(-2px); }
+    73%     { opacity: 0.3;  transform: translateY(-4px); }
+    74%     { opacity: 0.1;  transform: translateY(-6px); }
+    75%,100%{ opacity: 0;    transform: translateY(-8px); }
+  }
+  @keyframes s3 {
+    0%,75%  { opacity: 0;    transform: translateY(10px); }
+    76%     { opacity: 0.1;  transform: translateY(8px); }
+    77%     { opacity: 0.3;  transform: translateY(5px); }
+    78%     { opacity: 0.6;  transform: translateY(2px); }
+    79%     { opacity: 0.85; transform: translateY(0.5px); }
+    80%,95% { opacity: 1;    transform: translateY(0); }
+    96%     { opacity: 0.85; transform: translateY(-0.5px); }
+    97%     { opacity: 0.6;  transform: translateY(-2px); }
+    98%     { opacity: 0.3;  transform: translateY(-4px); }
+    99%     { opacity: 0.1;  transform: translateY(-6px); }
+    100%    { opacity: 0;    transform: translateY(-8px); }
+  }
 
-  .sc0 { animation: s0 20s cubic-bezier(0.4, 0, 0.2, 1) infinite; }
-  .sc1 { animation: s1 20s cubic-bezier(0.4, 0, 0.2, 1) infinite; }
-  .sc2 { animation: s2 20s cubic-bezier(0.4, 0, 0.2, 1) infinite; }
-  .sc3 { animation: s3 20s cubic-bezier(0.4, 0, 0.2, 1) infinite; }
+  .sc0 { animation: s0 20s ease infinite; will-change: opacity, transform; }
+  .sc1 { animation: s1 20s ease infinite; will-change: opacity, transform; }
+  .sc2 { animation: s2 20s ease infinite; will-change: opacity, transform; }
+  .sc3 { animation: s3 20s ease infinite; will-change: opacity, transform; }
 </style>
 
 <!-- 0 — Intro -->

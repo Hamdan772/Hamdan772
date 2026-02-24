@@ -27,7 +27,7 @@
 
 | **Languages** | **AI / ML** | **IoT & Hardware** | **Tools & Platforms** |
 |:---:|:---:|:---:|:---:|
-| <img src="https://skillicons.dev/icons?i=python,js,ts,html,css,cpp&theme=dark&perline=3" alt="Languages"/> | <img src="https://skillicons.dev/icons?i=pytorch,opencv,numpy,tensorflow&theme=dark&perline=2" alt="AI / ML"/> | <img src="https://skillicons.dev/icons?i=arduino,raspberrypi&theme=dark&perline=2" alt="IoT & Hardware"/> | <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker,bash&theme=dark&perline=3" alt="Tools & Platforms"/> |
+| <img src="https://skillicons.dev/icons?i=python,js,ts,html,css,cpp&theme=dark&perline=3#gh-dark-mode-only" alt="Languages"/><img src="https://skillicons.dev/icons?i=python,js,ts,html,css,cpp&theme=light&perline=3#gh-light-mode-only" alt="Languages"/> | <img src="https://skillicons.dev/icons?i=pytorch,opencv,numpy,tensorflow&theme=dark&perline=2#gh-dark-mode-only" alt="AI / ML"/><img src="https://skillicons.dev/icons?i=pytorch,opencv,numpy,tensorflow&theme=light&perline=2#gh-light-mode-only" alt="AI / ML"/> | <img src="https://skillicons.dev/icons?i=arduino,raspberrypi&theme=dark&perline=2#gh-dark-mode-only" alt="IoT & Hardware"/><img src="https://skillicons.dev/icons?i=arduino,raspberrypi&theme=light&perline=2#gh-light-mode-only" alt="IoT & Hardware"/> | <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker,bash&theme=dark&perline=3#gh-dark-mode-only" alt="Tools & Platforms"/><img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker,bash&theme=light&perline=3#gh-light-mode-only" alt="Tools & Platforms"/> |
 
 </div>
 
