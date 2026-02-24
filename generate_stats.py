@@ -1,3 +1,4 @@
+import base64
 import json
 import os
 import sys
@@ -10,11 +11,31 @@ GITHUB_TOKEN = os.environ.get("GITHUB_TOKEN", "")
 GITHUB_USER = "Hamdan772"
 
 
+def get_wakatime_b64_key():
+    """Return the base64-encoded WakaTime API key for Basic auth."""
+    key = WAKATIME_API_KEY.strip()
+    if not key:
+        return ""
+    # If already base64-encoded, return as-is
+    try:
+        decoded = base64.b64decode(key).decode()
+        if decoded.startswith("waka_") or len(decoded) > 10:
+            return key
+    except Exception:
+        pass
+    # Raw key — base64 encode it
+    return base64.b64encode(key.encode()).decode()
+
+
 def fetch_wakatime_stats():
     """Fetch stats from WakaTime API."""
+    b64_key = get_wakatime_b64_key()
+    if not b64_key:
+        print("No WakaTime API key provided, using defaults.")
+        return None
     url = "https://wakatime.com/api/v1/users/current/stats/last_7_days"
     req = urllib.request.Request(url)
-    req.add_header("Authorization", f"Basic {WAKATIME_API_KEY}")
+    req.add_header("Authorization", f"Basic {b64_key}")
     try:
         with urllib.request.urlopen(req) as resp:
             return json.loads(resp.read().decode())["data"]
@@ -276,7 +297,7 @@ def generate_activity_svg(data, theme="dark"):
     g_mid = "#818cf8" if is_dark else "#8250df"
     g_end = "#c084fc" if is_dark else "#8250df"
 
-    now = datetime.utcnow().strftime("%b %d, %Y %H:%M UTC")
+    now = datetime.utcnow().strftime("%Y-%m-%d %H:%M UTC")
 
     lines = []
     lines.append(f'<svg width="880" height="720" viewBox="0 0 880 720" xmlns="http://www.w3.org/2000/svg">')
@@ -368,7 +389,7 @@ def generate_activity_svg(data, theme="dark"):
 
     # Bottom
     lines.append(f'<rect x="90" y="690" width="700" height="2" rx="1" fill="url(#accent)" opacity="0.4"/>')
-    lines.append(f'<text x="440" y="712" text-anchor="middle" fill="{text_secondary}" font-family="\'Segoe UI\', Ubuntu, sans-serif" font-size="10">Last Updated: {now} • Hamdan772/Hamdan772</text>')
+    lines.append(f'<text x="440" y="712" text-anchor="middle" fill="{text_secondary}" font-family="\'Courier New\', monospace" font-size="11">Last Updated: {now}</text>')
     lines.append('</svg>')
 
     return "\n".join(lines)
