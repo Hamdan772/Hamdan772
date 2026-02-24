@@ -1,0 +1,51 @@
+<svg width="1920" height="1080" viewBox="0 0 1920 1080" xmlns="http://www.w3.org/2000/svg">
+<rect width="1920" height="1080" fill="#0d1117"/>
+<style>
+  .l1 { font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; font-size: 72px; font-weight: 600; fill: #f0f6fc; text-anchor: middle; dominant-baseline: middle; }
+  .l2 { font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; font-size: 48px; font-weight: 400; fill: #38bdf8; text-anchor: middle; dominant-baseline: middle; }
+  @keyframes g0 {
+    0% { opacity:0; }
+    10.48% { opacity:1; }
+    18.56% { opacity:1; }
+    24.85%,100% { opacity:0; }
+  }
+  .s0 { animation: g0 22.27s linear infinite; }
+  @keyframes g1 {
+    0%,26.20% { opacity:0; }
+    36.43% { opacity:1; }
+    44.51% { opacity:1; }
+    50.65%,100% { opacity:0; }
+  }
+  .s1 { animation: g1 22.27s linear infinite; }
+  @keyframes g2 {
+    0%,52.00% { opacity:0; }
+    61.48% { opacity:1; }
+    69.56% { opacity:1; }
+    75.25%,100% { opacity:0; }
+  }
+  .s2 { animation: g2 22.27s linear infinite; }
+  @keyframes g3 {
+    0%,76.60% { opacity:0; }
+    85.33% { opacity:1; }
+    93.41% { opacity:1; }
+    98.65%,100% { opacity:0; }
+  }
+  .s3 { animation: g3 22.27s linear infinite; }
+</style>
+<g class="s0">
+  <text x="960" y="485" class="l1">Hey, I'm Hamdan! 👋</text>
+  <text x="960" y="595" class="l2">Computer Science Student · Sharjah, UAE 🇦🇪</text>
+</g>
+<g class="s1">
+  <text x="960" y="485" class="l1">I build AI that sees the world 👁️</text>
+  <text x="960" y="595" class="l2">Computer Vision · Deep Learning · PyTorch</text>
+</g>
+<g class="s2">
+  <text x="960" y="485" class="l1">I connect code to hardware 🔌</text>
+  <text x="960" y="595" class="l2">IoT · Arduino · Raspberry Pi · Edge AI</text>
+</g>
+<g class="s3">
+  <text x="960" y="485" class="l1">Always building. Always learning. 🚀</text>
+  <text x="960" y="595" class="l2">Stay consistent. Stay curious.</text>
+</g>
+</svg>
