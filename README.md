@@ -17,24 +17,37 @@
 ## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" height="28"/> &nbsp;whoami
 
 ```
-╔═══════════════════════════════════════════════════════════╗
-║  hamdan@macbook ~ % neofetch                              ║
-╠══════════════════════╦════════════════════════════════════╣
-║                      ║                                    ║
-║  ██╗  ██╗            ║  user      :  Hamdan               ║
-║  ██║  ██║            ║  role      :  Student Developer    ║
-║  ███████║            ║  location  :  Sharjah, UAE         ║
-║  ██╔══██║            ║  os        :  macOS                ║
-║  ██║  ██║            ║  uptime    :  14 years             ║
-║  ╚═╝  ╚═╝            ║  shell     :  zsh + python3        ║
-║                      ║  editor    :  VS Code | Jupyter    ║
-║                      ║  coffee    :  infinite cups/day    ║
-║                      ║                                    ║
-╠══════════════════════╩════════════════════════════════════╣
-║  focus      :  AI  +  Computer Vision  +  IoT             ║
-║  status     :  Building real-world solutions              ║
-║  interests  :  CV  |  ML  |  Deep Learning  |  IoT        ║
-╚═══════════════════════════════════════════════════════════╝
+╔════════════════════════════════════════════════════════════════╗
+║   Terminal — hamdan@macbook — zsh                              ║
+╠════════════════════════════════════════════════════════════════╣
+║                                                                ║
+║   hamdan@macbook ~ % whoami                                    ║
+║                                                                ║
+║     name      ›  Hamdan                                        ║
+║     role      ›  Student Developer                             ║
+║     location  ›  Sharjah, UAE                                  ║
+║     os        ›  macOS                                         ║
+║     uptime    ›  14 years                                      ║
+║                                                                ║
+║   hamdan@macbook ~ % cat focus.txt                             ║
+║                                                                ║
+║     shell     ›  zsh + python3                                 ║
+║     editor    ›  VS Code + Jupyter                             ║
+║     focus     ›  AI + Computer Vision + IoT                    ║
+║     status    ›  [ BUILDING ] real-world solutions             ║
+║                                                                ║
+║   hamdan@macbook ~ % cat interests.sh                          ║
+║                                                                ║
+║     >> Computer Vision    [ active ]                           ║
+║     >> Machine Learning   [ active ]                           ║
+║     >> Deep Learning      [ active ]                           ║
+║     >> IoT Systems        [ active ]                           ║
+║     >> Automation         [ active ]                           ║
+║                                                                ║
+║   hamdan@macbook ~ % echo $COFFEE                              ║
+║     infinite cups/day                                          ║
+║                                                                ║
+╚════════════════════════════════════════════════════════════════╝
 ```
 
 ```diff
