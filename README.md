@@ -14,119 +14,37 @@
 
 ---
 
-## 🧠 About Me
-
-```yaml
-name: Hamdan
-location: Sharjah, UAE 🇦🇪
-role: Computer Science Student
-interests:
-  - Computer Vision & Deep Learning
-  - IoT & Edge AI
-  - Full-Stack Development
-  - Open Source
-currently:
-  - 🔭 Building AI-powered real-world applications
-  - 🌱 Exploring edge deployment & model optimization
-  - ⚡ Tinkering with hardware + software integrations
-motto: "Stay consistent. Stay curious."
-```
-
----
-
-## 🛠️ Tech Stack
+## ️ Tech Stack
 
 <div align="center">
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=python,js,ts,html,css,cpp&theme=dark" alt="Languages" />
+</a>
 
-### AI / ML
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+<br/>
 
-### IoT & Hardware
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=pytorch,opencv,numpy,tensorflow&theme=dark" alt="AI / ML" />
+</a>
 
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+<br/>
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi&theme=dark" alt="IoT & Hardware" />
+</a>
+
+<br/>
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker,bash&theme=dark" alt="Tools & Platforms" />
+</a>
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🤟 [ASL Translator](https://github.com/Hamdan772/asl-translator)
-Real-time hand gesture recognition system that translates **American Sign Language** alphabet signs into text using **MediaPipe** hand tracking and custom geometric pattern matching.
-
-`Python` `OpenCV` `MediaPipe` `Computer Vision`
-
-</td>
-<td width="50%" valign="top">
-
-### ☀️ [SolarVision](https://github.com/Hamdan772/SolarVision)
-AI-powered web platform that evaluates **rooftop solar potential** using satellite data and geospatial analysis. Users select rooftops on a map to instantly receive energy generation estimates.
-
-`HTML` `JavaScript` `GIS` `AI`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 📈 [Trendly](https://github.com/Hamdan772/Trendly)
-Data-driven trend analysis tool built with **Python** for tracking and visualizing patterns across datasets.
-
-`Python` `Data Analysis` `Visualization`
-
-</td>
-<td width="50%" valign="top">
-
-### 🧾 [InvoCraft](https://github.com/Hamdan772/InvoCraft)
-A clean, modern invoice generation tool for creating professional invoices effortlessly.
-
-`HTML` `CSS` `JavaScript`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🧠 [FlashFlicker](https://github.com/Hamdan772/FlashFlicker)
-AI-powered flashcard and study app with intelligent coaching features to optimize learning.
-
-`TypeScript` `AI` `EdTech`
-
-</td>
-<td width="50%" valign="top">
-
-### 👨‍💻 More coming soon...
-Always experimenting, always shipping. Check back for new projects!
-
-</td>
-</tr>
-</table>
-
----
-
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
 
