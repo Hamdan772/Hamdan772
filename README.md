@@ -14,84 +14,35 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" height="28"/> &nbsp;whoami
+## 💫 About Me
 
-```
-╔════════════════════════════════════════════════════════════════╗
-║   Terminal — hamdan@macbook — zsh                              ║
-╠════════════════════════════════════════════════════════════════╣
-║                                                                ║
-║   hamdan@macbook ~ % whoami                                    ║
-║                                                                ║
-║     name      ›  Hamdan                                        ║
-║     role      ›  Student Developer                             ║
-║     location  ›  Sharjah, UAE                                  ║
-║     os        ›  macOS                                         ║
-║     uptime    ›  14 years                                      ║
-║                                                                ║
-║   hamdan@macbook ~ % cat focus.txt                             ║
-║                                                                ║
-║     shell     ›  zsh + python3                                 ║
-║     editor    ›  VS Code + Jupyter                             ║
-║     focus     ›  AI + Computer Vision + IoT                    ║
-║     status    ›  [ BUILDING ] real-world solutions             ║
-║                                                                ║
-║   hamdan@macbook ~ % cat interests.sh                          ║
-║                                                                ║
-║     >> Computer Vision    [ active ]                           ║
-║     >> Machine Learning   [ active ]                           ║
-║     >> Deep Learning      [ active ]                           ║
-║     >> IoT Systems        [ active ]                           ║
-║     >> Automation         [ active ]                           ║
-║                                                                ║
-║   hamdan@macbook ~ % echo $COFFEE                              ║
-║     infinite cups/day                                          ║
-║                                                                ║
-╚════════════════════════════════════════════════════════════════╝
-```
+<img align="right" alt="Coding" width="340" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
 
-```diff
-+ $ cat goals_2026.txt
+I'm a Computer Science student from **Sharjah, UAE** 🇦🇪 who loves building things that sit at the intersection of AI and the real world. Whether it's training a model to see, wiring up a microcontroller, or writing clean Python — I'm always building something.
 
-+ [████████░░]  80%   Master Computer Vision & Edge AI
-+ [██████░░░░]  60%   Build 10+ AI-powered projects
-- [████░░░░░░]  40%   Launch startup MVP
-- [███░░░░░░░]  30%   Publish first research paper
-! [██████████] 100%   Stay consistent. Stay curious. 🚀
-```
+I'm especially into **Computer Vision**, **Machine Learning**, and **IoT systems** — projects where code has a physical impact. My goal is to turn ideas into real, working solutions that actually matter.
 
-```bash
-$ echo $PHILOSOPHY
-> "The best way to predict the future is to build it." ⚡
-> "Stay consistent. Stay curious. Stay building." 🧠
-```
+When I'm not coding, I'm either deep in research, breaking my own projects, or planning the next one over coffee ☕
+
+> *"Stay consistent. Stay curious. Stay building."* 🚀
+
+<br clear="right"/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="28"/> &nbsp;Tech Stack
-
-```bash
-$ ls -la ~/skills/
-```
+## 🛠️ Tech Stack
 
 <div align="center">
 
-| Category | Icons | Technologies |
-|:---|:---:|:---|
-| **Languages** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="28"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="28"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="28"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="28"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="28"/> | Python · JavaScript · C++ · HTML5 · CSS3 |
-| **AI & ML** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" height="28"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" height="28"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg" height="28"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" height="28"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" height="28"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" height="28"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" height="28"/> | TensorFlow · PyTorch · OpenCV · scikit-learn · NumPy · Pandas · Jupyter |
-| **IoT & Hardware** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" height="28"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg" height="28"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height="28"/> | Arduino · Raspberry Pi · Linux |
-| **Tools & Dev** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="28"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" height="28"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="28"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" height="28"/> | Git · GitHub · VS Code · Anaconda |
+| Languages | AI & Machine Learning | IoT & Hardware | Tools & Dev |
+|:---:|:---:|:---:|:---:|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="35" title="Python"/>&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="35" title="JavaScript"/>&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="35" title="C++"/>&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="35" title="HTML5"/>&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="35" title="CSS3"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" height="35" title="TensorFlow"/>&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" height="35" title="PyTorch"/>&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg" height="35" title="OpenCV"/>&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" height="35" title="scikit-learn"/>&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" height="35" title="NumPy"/>&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" height="35" title="Pandas"/>&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" height="35" title="Jupyter"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" height="35" title="Arduino"/>&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg" height="35" title="Raspberry Pi"/>&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height="35" title="Linux"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="35" title="Git"/>&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" height="35" title="GitHub"/>&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="35" title="VS Code"/>&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" height="35" title="Anaconda"/> |
 
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" height="28"/> &nbsp;Featured Projects
-
-```bash
-$ ls ~/projects/ --sort=stars
-```
+## 🚀 Featured Projects
 
 <div align="center">
 <table>
@@ -137,10 +88,6 @@ $ ls ~/projects/ --sort=stars
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 📊 GitHub Stats
-
-```bash
-$ gh stats --user Hamdan772 --verbose
-```
 
 <div align="center">
 
