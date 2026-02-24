@@ -5,7 +5,7 @@
   <img width="100%" src="https://raw.githubusercontent.com/Hamdan772/Hamdan772/main/header_light.svg" alt="Hamdan's animated intro"/>
 </picture>
 
-<br/>
+<br/><br/>
 
 <a href="https://github.com/Hamdan772">
   <picture>
@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/GITHUB-Hamdan772-f6f8fa?style=for-the-badge&logo=github&logoColor=0969da&labelColor=f6f8fa" alt="GitHub"/>
   </picture>
 </a>
-&nbsp;
+&nbsp;&nbsp;
 <a href="mailto:hamdan.n1786@gmail.com">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/EMAIL-hamdan.n1786@gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=0d1117">
@@ -23,22 +23,9 @@
 
 </div>
 
----
+<br/>
 
-## � Stats at a Glance
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hamdan772/Hamdan772/main/stats_dark.svg">
-  <img width="75%" src="https://raw.githubusercontent.com/Hamdan772/Hamdan772/main/stats_light.svg" alt="Code Time • Profile Views • Lines of Code"/>
-</picture>
-
-</div>
-
----
-
-## �🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
 
@@ -52,37 +39,24 @@
 
 </div>
 
----
-
-## 📊 Weekly Dev Activity
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hamdan772/Hamdan772/main/dev_activity_dark.svg">
-  <img width="80%" src="https://raw.githubusercontent.com/Hamdan772/Hamdan772/main/dev_activity_light.svg" alt="Weekly Dev Activity"/>
-</picture>
-
-</div>
-
----
+<br/>
 
 <div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Hamdan772&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=21262d&ring=38bdf8&fire=c084fc&currStreakLabel=38bdf8&sideLabels=c9d1d9&dates=8b949e">
-  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Hamdan772&theme=default&hide_border=true&background=ffffff&stroke=d0d7de&ring=0969da&fire=8250df&currStreakLabel=0969da&sideLabels=1f2328&dates=656d76" alt="Hamdan's Streak"/>
+  <img width="52%" src="https://github-readme-streak-stats.herokuapp.com/?user=Hamdan772&theme=default&hide_border=true&background=ffffff&stroke=d0d7de&ring=0969da&fire=8250df&currStreakLabel=0969da&sideLabels=1f2328&dates=656d76" alt="Hamdan's Streak"/>
 </picture>
 
-<br/>
+<br/><br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hamdan772/Hamdan772/output/github-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hamdan772/Hamdan772/output/github-snake.svg"/>
-  <img width="55%" alt="github-snake" src="https://raw.githubusercontent.com/Hamdan772/Hamdan772/output/github-snake.svg"/>
+  <img width="58%" alt="github-snake" src="https://raw.githubusercontent.com/Hamdan772/Hamdan772/output/github-snake.svg"/>
 </picture>
 
-<br/>
+<br/><br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://komarev.com/ghpvc/?username=Hamdan772&style=for-the-badge&color=38bdf8&labelColor=0d1117">

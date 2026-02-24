@@ -19,13 +19,13 @@
   </linearGradient>
   <linearGradient id="shimmer" x1="0%" y1="0%" x2="100%" y2="0%">
     <stop offset="0%" stop-color="#fff" stop-opacity="0">
-      <animate attributeName="offset" values="-0.5;1.5" dur="3.5s" repeatCount="indefinite"/>
+      <animate attributeName="offset" values="-0.5;1.5" dur="4.5s" repeatCount="indefinite"/>
     </stop>
-    <stop offset="10%" stop-color="#fff" stop-opacity="0.25">
-      <animate attributeName="offset" values="-0.4;1.6" dur="3.5s" repeatCount="indefinite"/>
+    <stop offset="10%" stop-color="#fff" stop-opacity="0.18">
+      <animate attributeName="offset" values="-0.4;1.6" dur="4.5s" repeatCount="indefinite"/>
     </stop>
     <stop offset="20%" stop-color="#fff" stop-opacity="0">
-      <animate attributeName="offset" values="-0.3;1.7" dur="3.5s" repeatCount="indefinite"/>
+      <animate attributeName="offset" values="-0.3;1.7" dur="4.5s" repeatCount="indefinite"/>
     </stop>
   </linearGradient>
   <filter id="softglow">
@@ -111,64 +111,72 @@
   .h2 { font-family: "Helvetica Neue",Helvetica,Arial,sans-serif; font-size: 30px; font-weight: 400; fill: #38bdf8; text-anchor: middle; dominant-baseline: middle; letter-spacing: 1.5px; }
   .h3 { font-family: "Helvetica Neue",Helvetica,Arial,sans-serif; font-size: 20px; font-weight: 300; fill: #8b949e; text-anchor: middle; dominant-baseline: middle; letter-spacing: 3px; text-transform: uppercase; }
 
-  /* 4 scenes @ 20s — ultra-smooth 240fps-grade transitions with many keyframe steps */
+  /* 4 scenes @ 24s — smooth crossfade with gentle slide */
   @keyframes s0 {
-    0%      { opacity: 0;    transform: translateY(10px); }
-    1%      { opacity: 0.1;  transform: translateY(8px); }
-    2%      { opacity: 0.3;  transform: translateY(5px); }
-    3%      { opacity: 0.6;  transform: translateY(2px); }
-    4%      { opacity: 0.85; transform: translateY(0.5px); }
-    5%,20%  { opacity: 1;    transform: translateY(0); }
-    21%     { opacity: 0.85; transform: translateY(-0.5px); }
-    22%     { opacity: 0.6;  transform: translateY(-2px); }
-    23%     { opacity: 0.3;  transform: translateY(-4px); }
-    24%     { opacity: 0.1;  transform: translateY(-6px); }
-    25%,100%{ opacity: 0;    transform: translateY(-8px); }
+    0%      { opacity: 0;    transform: translateY(6px); }
+    1%      { opacity: 0.05; transform: translateY(5px); }
+    2%      { opacity: 0.15; transform: translateY(4px); }
+    3%      { opacity: 0.35; transform: translateY(3px); }
+    4%      { opacity: 0.6;  transform: translateY(1.5px); }
+    5%      { opacity: 0.85; transform: translateY(0.5px); }
+    6%,19%  { opacity: 1;    transform: translateY(0); }
+    20%     { opacity: 0.85; transform: translateY(-0.5px); }
+    21%     { opacity: 0.6;  transform: translateY(-1.5px); }
+    22%     { opacity: 0.35; transform: translateY(-3px); }
+    23%     { opacity: 0.15; transform: translateY(-4px); }
+    24%     { opacity: 0.05; transform: translateY(-5px); }
+    25%,100%{ opacity: 0;    transform: translateY(-6px); }
   }
   @keyframes s1 {
-    0%,25%  { opacity: 0;    transform: translateY(10px); }
-    26%     { opacity: 0.1;  transform: translateY(8px); }
-    27%     { opacity: 0.3;  transform: translateY(5px); }
-    28%     { opacity: 0.6;  transform: translateY(2px); }
-    29%     { opacity: 0.85; transform: translateY(0.5px); }
-    30%,45% { opacity: 1;    transform: translateY(0); }
-    46%     { opacity: 0.85; transform: translateY(-0.5px); }
-    47%     { opacity: 0.6;  transform: translateY(-2px); }
-    48%     { opacity: 0.3;  transform: translateY(-4px); }
-    49%     { opacity: 0.1;  transform: translateY(-6px); }
-    50%,100%{ opacity: 0;    transform: translateY(-8px); }
+    0%,25%  { opacity: 0;    transform: translateY(6px); }
+    26%     { opacity: 0.05; transform: translateY(5px); }
+    27%     { opacity: 0.15; transform: translateY(4px); }
+    28%     { opacity: 0.35; transform: translateY(3px); }
+    29%     { opacity: 0.6;  transform: translateY(1.5px); }
+    30%     { opacity: 0.85; transform: translateY(0.5px); }
+    31%,44% { opacity: 1;    transform: translateY(0); }
+    45%     { opacity: 0.85; transform: translateY(-0.5px); }
+    46%     { opacity: 0.6;  transform: translateY(-1.5px); }
+    47%     { opacity: 0.35; transform: translateY(-3px); }
+    48%     { opacity: 0.15; transform: translateY(-4px); }
+    49%     { opacity: 0.05; transform: translateY(-5px); }
+    50%,100%{ opacity: 0;    transform: translateY(-6px); }
   }
   @keyframes s2 {
-    0%,50%  { opacity: 0;    transform: translateY(10px); }
-    51%     { opacity: 0.1;  transform: translateY(8px); }
-    52%     { opacity: 0.3;  transform: translateY(5px); }
-    53%     { opacity: 0.6;  transform: translateY(2px); }
-    54%     { opacity: 0.85; transform: translateY(0.5px); }
-    55%,70% { opacity: 1;    transform: translateY(0); }
-    71%     { opacity: 0.85; transform: translateY(-0.5px); }
-    72%     { opacity: 0.6;  transform: translateY(-2px); }
-    73%     { opacity: 0.3;  transform: translateY(-4px); }
-    74%     { opacity: 0.1;  transform: translateY(-6px); }
-    75%,100%{ opacity: 0;    transform: translateY(-8px); }
+    0%,50%  { opacity: 0;    transform: translateY(6px); }
+    51%     { opacity: 0.05; transform: translateY(5px); }
+    52%     { opacity: 0.15; transform: translateY(4px); }
+    53%     { opacity: 0.35; transform: translateY(3px); }
+    54%     { opacity: 0.6;  transform: translateY(1.5px); }
+    55%     { opacity: 0.85; transform: translateY(0.5px); }
+    56%,69% { opacity: 1;    transform: translateY(0); }
+    70%     { opacity: 0.85; transform: translateY(-0.5px); }
+    71%     { opacity: 0.6;  transform: translateY(-1.5px); }
+    72%     { opacity: 0.35; transform: translateY(-3px); }
+    73%     { opacity: 0.15; transform: translateY(-4px); }
+    74%     { opacity: 0.05; transform: translateY(-5px); }
+    75%,100%{ opacity: 0;    transform: translateY(-6px); }
   }
   @keyframes s3 {
-    0%,75%  { opacity: 0;    transform: translateY(10px); }
-    76%     { opacity: 0.1;  transform: translateY(8px); }
-    77%     { opacity: 0.3;  transform: translateY(5px); }
-    78%     { opacity: 0.6;  transform: translateY(2px); }
-    79%     { opacity: 0.85; transform: translateY(0.5px); }
-    80%,95% { opacity: 1;    transform: translateY(0); }
-    96%     { opacity: 0.85; transform: translateY(-0.5px); }
-    97%     { opacity: 0.6;  transform: translateY(-2px); }
-    98%     { opacity: 0.3;  transform: translateY(-4px); }
-    99%     { opacity: 0.1;  transform: translateY(-6px); }
-    100%    { opacity: 0;    transform: translateY(-8px); }
+    0%,75%  { opacity: 0;    transform: translateY(6px); }
+    76%     { opacity: 0.05; transform: translateY(5px); }
+    77%     { opacity: 0.15; transform: translateY(4px); }
+    78%     { opacity: 0.35; transform: translateY(3px); }
+    79%     { opacity: 0.6;  transform: translateY(1.5px); }
+    80%     { opacity: 0.85; transform: translateY(0.5px); }
+    81%,94% { opacity: 1;    transform: translateY(0); }
+    95%     { opacity: 0.85; transform: translateY(-0.5px); }
+    96%     { opacity: 0.6;  transform: translateY(-1.5px); }
+    97%     { opacity: 0.35; transform: translateY(-3px); }
+    98%     { opacity: 0.15; transform: translateY(-4px); }
+    99%     { opacity: 0.05; transform: translateY(-5px); }
+    100%    { opacity: 0;    transform: translateY(-6px); }
   }
 
-  .sc0 { animation: s0 20s ease infinite; will-change: opacity, transform; }
-  .sc1 { animation: s1 20s ease infinite; will-change: opacity, transform; }
-  .sc2 { animation: s2 20s ease infinite; will-change: opacity, transform; }
-  .sc3 { animation: s3 20s ease infinite; will-change: opacity, transform; }
+  .sc0 { animation: s0 24s cubic-bezier(0.4, 0, 0.2, 1) infinite; will-change: opacity, transform; }
+  .sc1 { animation: s1 24s cubic-bezier(0.4, 0, 0.2, 1) infinite; will-change: opacity, transform; }
+  .sc2 { animation: s2 24s cubic-bezier(0.4, 0, 0.2, 1) infinite; will-change: opacity, transform; }
+  .sc3 { animation: s3 24s cubic-bezier(0.4, 0, 0.2, 1) infinite; will-change: opacity, transform; }
 </style>
 
 <!-- 0 — Intro -->
