@@ -7,27 +7,31 @@
 
 <br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/GITHUB-Hamdan772-0d1117?style=for-the-badge&logo=github&logoColor=38bdf8&labelColor=0d1117">
-  <img src="https://img.shields.io/badge/GITHUB-Hamdan772-f6f8fa?style=for-the-badge&logo=github&logoColor=0969da&labelColor=f6f8fa" alt="GitHub"/>
-</picture>
-<a href="https://github.com/Hamdan772"> </a>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/EMAIL-hamdan.n1786@gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=0d1117">
-  <img src="https://img.shields.io/badge/EMAIL-hamdan.n1786@gmail.com-f6f8fa?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=f6f8fa" alt="Email"/>
-</picture>
+<a href="https://github.com/Hamdan772">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/GITHUB-Hamdan772-0d1117?style=for-the-badge&logo=github&logoColor=38bdf8&labelColor=0d1117">
+    <img src="https://img.shields.io/badge/GITHUB-Hamdan772-f6f8fa?style=for-the-badge&logo=github&logoColor=0969da&labelColor=f6f8fa" alt="GitHub"/>
+  </picture>
+</a>
+&nbsp;
+<a href="mailto:hamdan.n1786@gmail.com">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/EMAIL-hamdan.n1786@gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=0d1117">
+    <img src="https://img.shields.io/badge/EMAIL-hamdan.n1786@gmail.com-f6f8fa?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=f6f8fa" alt="Email"/>
+  </picture>
+</a>
 
 </div>
 
 ---
 
-## ️ Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
 
 | **Languages** | **AI / ML** | **IoT & Hardware** | **Tools & Platforms** |
 |:---:|:---:|:---:|:---:|
-| <img src="https://skillicons.dev/icons?i=python,js,ts,html,css,cpp&theme=dark&perline=3#gh-dark-mode-only" alt="Languages"/><img src="https://skillicons.dev/icons?i=python,js,ts,html,css,cpp&theme=light&perline=3#gh-light-mode-only" alt="Languages"/> | <img src="https://skillicons.dev/icons?i=pytorch,opencv,numpy,tensorflow&theme=dark&perline=2#gh-dark-mode-only" alt="AI / ML"/><img src="https://skillicons.dev/icons?i=pytorch,opencv,numpy,tensorflow&theme=light&perline=2#gh-light-mode-only" alt="AI / ML"/> | <img src="https://skillicons.dev/icons?i=arduino,raspberrypi&theme=dark&perline=2#gh-dark-mode-only" alt="IoT & Hardware"/><img src="https://skillicons.dev/icons?i=arduino,raspberrypi&theme=light&perline=2#gh-light-mode-only" alt="IoT & Hardware"/> | <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker,bash&theme=dark&perline=3#gh-dark-mode-only" alt="Tools & Platforms"/><img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker,bash&theme=light&perline=3#gh-light-mode-only" alt="Tools & Platforms"/> |
+| <img src="https://skillicons.dev/icons?i=python,js,ts,html,css,cpp&theme=dark&perline=3" alt="Languages"/> | <img src="https://skillicons.dev/icons?i=pytorch,opencv,numpy,tensorflow&theme=dark&perline=2" alt="AI / ML"/> | <img src="https://skillicons.dev/icons?i=arduino,raspberrypi&theme=dark&perline=2" alt="IoT & Hardware"/> | <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker,bash&theme=dark&perline=3" alt="Tools & Platforms"/> |
 
 </div>
 
@@ -40,14 +44,12 @@
   <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Hamdan772&theme=default&hide_border=true&background=ffffff&stroke=d0d7de&ring=0969da&fire=8250df&currStreakLabel=0969da&sideLabels=1f2328&dates=656d76" alt="Hamdan's Streak"/>
 </picture>
 
-</div>
-
-<div align="center">
+<br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hamdan772/Hamdan772/output/github-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hamdan772/Hamdan772/output/github-snake.svg"/>
-  <img width="60%" alt="github-snake" src="https://raw.githubusercontent.com/Hamdan772/Hamdan772/output/github-snake.svg"/>
+  <img width="55%" alt="github-snake" src="https://raw.githubusercontent.com/Hamdan772/Hamdan772/output/github-snake.svg"/>
 </picture>
 
 <br/>
