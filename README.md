@@ -20,23 +20,23 @@
 <img align="right" alt="Coding" width="360" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
 
 ```yaml
-┌──────────────────────────────────────────────────────┐
-│                  hamdan@uae:~$ neofetch              │
-├─────────────────┬────────────────────────────────────┤
-│                 │                                    │
-│   ██╗  ██╗      │  user     : Hamdan                 │
-│   ██║  ██║      │  role     : Student Developer      │
-│   ███████║      │  location : Sharjah, UAE 🇦🇪        │
-│   ██╔══██║      │  focus    : AI + Computer Vision   │
-│   ██║  ██║      │  status   : Building cool stuff ⚡ │
-│   ╚═╝  ╚═╝      │  uptime   : 20 years               │
-│                 │  coffee   : ∞ cups/day ☕          │
-├─────────────────┴────────────────────────────────────┤
-│  OS        : UAE-Linux 🇦🇪 (Sharjah build)            │
-│  Shell     : Python 3.x  |  zsh                      │
-│  Editor    : VS Code  |  Jupyter                     │
-│  Interests : CV • ML • IoT • Automation              │
-└──────────────────────────────────────────────────────┘
+╔══════════════════════════════════════════════════════════╗
+║  hamdan@macbook ~ % neofetch                             ║
+╠═══════════════════╦══════════════════════════════════════╣
+║                   ║                                      ║
+║  ██╗  ██╗         ║  user      :  Hamdan                 ║
+║  ██║  ██║         ║  role      :  Student Developer      ║
+║  ███████║         ║  location  :  Sharjah, UAE  🇦🇪       ║
+║  ██╔══██║         ║  os        :  macOS  🍎               ║
+║  ██║  ██║         ║  uptime    :  14 years               ║
+║  ╚═╝  ╚═╝         ║  shell     :  zsh + python3          ║
+║                   ║  editor    :  VS Code  |  Jupyter    ║
+║                   ║  coffee    :  ∞ cups / day  ☕        ║
+╠═══════════════════╩══════════════════════════════════════╣
+║  focus     :  AI + Computer Vision + IoT                 ║
+║  status    :  Building real-world solutions  ⚡           ║
+║  interests :  CV  •  ML  •  Deep Learning  •  Automation ║
+╚══════════════════════════════════════════════════════════╝
 ```
 
 ```diff
@@ -176,10 +176,6 @@ $ gh stats --user Hamdan772 --verbose
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 💬 Let's Connect
-
-```bash
-$ curl -X GET https://api.hamdan.dev/contact
-```
 
 <div align="center">
 
