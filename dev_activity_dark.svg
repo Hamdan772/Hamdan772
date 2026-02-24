@@ -9,148 +9,95 @@
     <stop offset="0%" stop-color="#38bdf8"/>
     <stop offset="100%" stop-color="#818cf8"/>
   </linearGradient>
-  <filter id="glow">
-    <feGaussianBlur stdDeviation="1" result="blur"/>
-    <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
-  </filter>
 </defs>
-
 <rect width="880" height="720" rx="12" fill="#0d1117" stroke="#21262d" stroke-width="1"/>
-
-<!-- Title -->
 <text x="440" y="40" text-anchor="middle" fill="url(#accent)" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="18" font-weight="bold" letter-spacing="2">📊 WEEKLY DEV ACTIVITY</text>
 <rect x="90" y="52" width="700" height="1" rx="0.5" fill="url(#accent)" opacity="0.3"/>
-
-<!-- Timezone -->
 <text x="440" y="76" text-anchor="middle" fill="#8b949e" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="13">🕑︎ Time Zone: Asia/Dubai</text>
-
-<!-- ═══ COMMITS BY DAY ═══ -->
 <text x="60" y="112" fill="#e6edf3" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="14" font-weight="bold">📅 Commits by Day of Week</text>
-
-<!-- Monday -->
 <text x="60" y="142" fill="#c9d1d9" font-family="'Courier New', monospace" font-size="12.5">Monday</text>
 <rect x="180" y="130" width="161" height="16" rx="3" fill="#161b22"/>
-<rect x="180" y="130" width="38" height="16" rx="3" fill="url(#bar1)" opacity="0.85"/>
-<text x="354" y="143" fill="#8b949e" font-family="'Courier New', monospace" font-size="11">1,038 commits</text>
-<text x="510" y="143" fill="#58a6ff" font-family="'Courier New', monospace" font-size="11">███░░░░░░░░░░░░░░░░░░░░░░</text>
-<text x="780" y="143" fill="#8b949e" font-family="'Courier New', monospace" font-size="11" text-anchor="end">11.95%</text>
-
-<!-- Tuesday -->
+<rect x="180" y="130" width="92" height="16" rx="3" fill="url(#bar1)" opacity="0.85"/>
+<text x="354" y="142" fill="#8b949e" font-family="'Courier New', monospace" font-size="11">1,038 commits</text>
+<text x="510" y="142" fill="#58a6ff" font-family="'Courier New', monospace" font-size="11">███░░░░░░░░░░░░░░░░░░░░░░</text>
+<text x="780" y="142" fill="#8b949e" font-family="'Courier New', monospace" font-size="11" text-anchor="end">11.95%</text>
 <text x="60" y="168" fill="#c9d1d9" font-family="'Courier New', monospace" font-size="12.5">Tuesday</text>
 <rect x="180" y="156" width="161" height="16" rx="3" fill="#161b22"/>
-<rect x="180" y="156" width="45" height="16" rx="3" fill="url(#bar1)" opacity="0.85"/>
-<text x="354" y="169" fill="#8b949e" font-family="'Courier New', monospace" font-size="11">1,231 commits</text>
-<text x="510" y="169" fill="#58a6ff" font-family="'Courier New', monospace" font-size="11">████░░░░░░░░░░░░░░░░░░░░░</text>
-<text x="780" y="169" fill="#8b949e" font-family="'Courier New', monospace" font-size="11" text-anchor="end">14.17%</text>
-
-<!-- Wednesday -->
+<rect x="180" y="156" width="109" height="16" rx="3" fill="url(#bar1)" opacity="0.85"/>
+<text x="354" y="168" fill="#8b949e" font-family="'Courier New', monospace" font-size="11">1,231 commits</text>
+<text x="510" y="168" fill="#58a6ff" font-family="'Courier New', monospace" font-size="11">████░░░░░░░░░░░░░░░░░░░░░</text>
+<text x="780" y="168" fill="#8b949e" font-family="'Courier New', monospace" font-size="11" text-anchor="end">14.17%</text>
 <text x="60" y="194" fill="#c9d1d9" font-family="'Courier New', monospace" font-size="12.5">Wednesday</text>
 <rect x="180" y="182" width="161" height="16" rx="3" fill="#161b22"/>
-<rect x="180" y="182" width="46" height="16" rx="3" fill="url(#bar1)" opacity="0.85"/>
-<text x="354" y="195" fill="#8b949e" font-family="'Courier New', monospace" font-size="11">1,235 commits</text>
-<text x="510" y="195" fill="#58a6ff" font-family="'Courier New', monospace" font-size="11">████░░░░░░░░░░░░░░░░░░░░░</text>
-<text x="780" y="195" fill="#8b949e" font-family="'Courier New', monospace" font-size="11" text-anchor="end">14.22%</text>
-
-<!-- Thursday -->
+<rect x="180" y="182" width="110" height="16" rx="3" fill="url(#bar1)" opacity="0.85"/>
+<text x="354" y="194" fill="#8b949e" font-family="'Courier New', monospace" font-size="11">1,235 commits</text>
+<text x="510" y="194" fill="#58a6ff" font-family="'Courier New', monospace" font-size="11">████░░░░░░░░░░░░░░░░░░░░░</text>
+<text x="780" y="194" fill="#8b949e" font-family="'Courier New', monospace" font-size="11" text-anchor="end">14.22%</text>
 <text x="60" y="220" fill="#c9d1d9" font-family="'Courier New', monospace" font-size="12.5">Thursday</text>
 <rect x="180" y="208" width="161" height="16" rx="3" fill="#161b22"/>
-<rect x="180" y="208" width="38" height="16" rx="3" fill="url(#bar1)" opacity="0.85"/>
-<text x="354" y="221" fill="#8b949e" font-family="'Courier New', monospace" font-size="11">1,038 commits</text>
-<text x="510" y="221" fill="#58a6ff" font-family="'Courier New', monospace" font-size="11">███░░░░░░░░░░░░░░░░░░░░░░</text>
-<text x="780" y="221" fill="#8b949e" font-family="'Courier New', monospace" font-size="11" text-anchor="end">11.95%</text>
-
-<!-- Friday -->
+<rect x="180" y="208" width="92" height="16" rx="3" fill="url(#bar1)" opacity="0.85"/>
+<text x="354" y="220" fill="#8b949e" font-family="'Courier New', monospace" font-size="11">1,038 commits</text>
+<text x="510" y="220" fill="#58a6ff" font-family="'Courier New', monospace" font-size="11">███░░░░░░░░░░░░░░░░░░░░░░</text>
+<text x="780" y="220" fill="#8b949e" font-family="'Courier New', monospace" font-size="11" text-anchor="end">11.95%</text>
 <text x="60" y="246" fill="#c9d1d9" font-family="'Courier New', monospace" font-size="12.5">Friday</text>
 <rect x="180" y="234" width="161" height="16" rx="3" fill="#161b22"/>
-<rect x="180" y="234" width="34" height="16" rx="3" fill="url(#bar1)" opacity="0.85"/>
-<text x="354" y="247" fill="#8b949e" font-family="'Courier New', monospace" font-size="11">917 commits</text>
-<text x="510" y="247" fill="#58a6ff" font-family="'Courier New', monospace" font-size="11">███░░░░░░░░░░░░░░░░░░░░░░</text>
-<text x="780" y="247" fill="#8b949e" font-family="'Courier New', monospace" font-size="11" text-anchor="end">10.56%</text>
-
-<!-- Saturday -->
+<rect x="180" y="234" width="81" height="16" rx="3" fill="url(#bar1)" opacity="0.85"/>
+<text x="354" y="246" fill="#8b949e" font-family="'Courier New', monospace" font-size="11">917 commits</text>
+<text x="510" y="246" fill="#58a6ff" font-family="'Courier New', monospace" font-size="11">███░░░░░░░░░░░░░░░░░░░░░░</text>
+<text x="780" y="246" fill="#8b949e" font-family="'Courier New', monospace" font-size="11" text-anchor="end">10.56%</text>
 <text x="60" y="272" fill="#c9d1d9" font-family="'Courier New', monospace" font-size="12.5">Saturday</text>
 <rect x="180" y="260" width="161" height="16" rx="3" fill="#161b22"/>
-<rect x="180" y="260" width="53" height="16" rx="3" fill="url(#bar1)" opacity="0.85"/>
-<text x="354" y="273" fill="#8b949e" font-family="'Courier New', monospace" font-size="11">1,422 commits</text>
-<text x="510" y="273" fill="#58a6ff" font-family="'Courier New', monospace" font-size="11">████░░░░░░░░░░░░░░░░░░░░░</text>
-<text x="780" y="273" fill="#8b949e" font-family="'Courier New', monospace" font-size="11" text-anchor="end">16.37%</text>
-
-<!-- Sunday -->
+<rect x="180" y="260" width="126" height="16" rx="3" fill="url(#bar1)" opacity="0.85"/>
+<text x="354" y="272" fill="#8b949e" font-family="'Courier New', monospace" font-size="11">1,422 commits</text>
+<text x="510" y="272" fill="#58a6ff" font-family="'Courier New', monospace" font-size="11">████░░░░░░░░░░░░░░░░░░░░░</text>
+<text x="780" y="272" fill="#8b949e" font-family="'Courier New', monospace" font-size="11" text-anchor="end">16.37%</text>
 <text x="60" y="298" fill="#c9d1d9" font-family="'Courier New', monospace" font-size="12.5">Sunday</text>
 <rect x="180" y="286" width="161" height="16" rx="3" fill="#161b22"/>
-<rect x="180" y="286" width="67" height="16" rx="3" fill="url(#bar1)" opacity="0.85"/>
-<text x="354" y="299" fill="#8b949e" font-family="'Courier New', monospace" font-size="11">1,806 commits</text>
-<text x="510" y="299" fill="#58a6ff" font-family="'Courier New', monospace" font-size="11">█████░░░░░░░░░░░░░░░░░░░░</text>
-<text x="780" y="299" fill="#8b949e" font-family="'Courier New', monospace" font-size="11" text-anchor="end">20.79%</text>
-
-<!-- Divider -->
+<rect x="180" y="286" width="161" height="16" rx="3" fill="url(#bar1)" opacity="0.85"/>
+<text x="354" y="298" fill="#8b949e" font-family="'Courier New', monospace" font-size="11">1,806 commits</text>
+<text x="510" y="298" fill="#58a6ff" font-family="'Courier New', monospace" font-size="11">█████░░░░░░░░░░░░░░░░░░░░</text>
+<text x="780" y="298" fill="#8b949e" font-family="'Courier New', monospace" font-size="11" text-anchor="end">20.79%</text>
 <rect x="90" y="320" width="700" height="1" rx="0.5" fill="#21262d"/>
-
-<!-- ═══ PROGRAMMING LANGUAGES ═══ -->
 <text x="60" y="352" fill="#e6edf3" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="14" font-weight="bold">💬 Programming Languages</text>
-
-<!-- TypeScript -->
 <text x="60" y="382" fill="#c9d1d9" font-family="'Courier New', monospace" font-size="12.5">TypeScript</text>
 <rect x="200" y="370" width="400" height="16" rx="3" fill="#161b22"/>
-<rect x="200" y="370" width="345" height="16" rx="3" fill="#3178c6" opacity="0.85"/>
-<text x="620" y="383" fill="#8b949e" font-family="'Courier New', monospace" font-size="11">6 hrs 29 mins</text>
-<text x="780" y="383" fill="#3178c6" font-family="'Courier New', monospace" font-size="11" text-anchor="end">86.16%</text>
-
-<!-- Markdown -->
+<rect x="200" y="370" width="344" height="16" rx="3" fill="#3178c6" opacity="0.85"/>
+<text x="620" y="382" fill="#8b949e" font-family="'Courier New', monospace" font-size="11">6 hrs 29 mins</text>
+<text x="780" y="382" fill="#3178c6" font-family="'Courier New', monospace" font-size="11" text-anchor="end">86.16%</text>
 <text x="60" y="408" fill="#c9d1d9" font-family="'Courier New', monospace" font-size="12.5">Markdown</text>
 <rect x="200" y="396" width="400" height="16" rx="3" fill="#161b22"/>
 <rect x="200" y="396" width="36" height="16" rx="3" fill="#083fa1" opacity="0.85"/>
-<text x="620" y="409" fill="#8b949e" font-family="'Courier New', monospace" font-size="11">41 mins</text>
-<text x="780" y="409" fill="#083fa1" font-family="'Courier New', monospace" font-size="11" text-anchor="end">09.08%</text>
-
-<!-- JSON -->
+<text x="620" y="408" fill="#8b949e" font-family="'Courier New', monospace" font-size="11">41 mins</text>
+<text x="780" y="408" fill="#083fa1" font-family="'Courier New', monospace" font-size="11" text-anchor="end">9.08%</text>
 <text x="60" y="434" fill="#c9d1d9" font-family="'Courier New', monospace" font-size="12.5">JSON</text>
 <rect x="200" y="422" width="400" height="16" rx="3" fill="#161b22"/>
-<rect x="200" y="422" width="9" height="16" rx="3" fill="#a7a7a7" opacity="0.85"/>
-<text x="620" y="435" fill="#8b949e" font-family="'Courier New', monospace" font-size="11">9 mins</text>
-<text x="780" y="435" fill="#a7a7a7" font-family="'Courier New', monospace" font-size="11" text-anchor="end">02.19%</text>
-
-<!-- textmate -->
+<rect x="200" y="422" width="8" height="16" rx="3" fill="#a7a7a7" opacity="0.85"/>
+<text x="620" y="434" fill="#8b949e" font-family="'Courier New', monospace" font-size="11">9 mins</text>
+<text x="780" y="434" fill="#a7a7a7" font-family="'Courier New', monospace" font-size="11" text-anchor="end">2.19%</text>
 <text x="60" y="460" fill="#c9d1d9" font-family="'Courier New', monospace" font-size="12.5">textmate</text>
 <rect x="200" y="448" width="400" height="16" rx="3" fill="#161b22"/>
-<rect x="200" y="448" width="5" height="16" rx="3" fill="#e38c00" opacity="0.85"/>
-<text x="620" y="461" fill="#8b949e" font-family="'Courier New', monospace" font-size="11">5 mins</text>
-<text x="780" y="461" fill="#e38c00" font-family="'Courier New', monospace" font-size="11" text-anchor="end">01.23%</text>
-
-<!-- JavaScript -->
+<rect x="200" y="448" width="4" height="16" rx="3" fill="#e38c00" opacity="0.85"/>
+<text x="620" y="460" fill="#8b949e" font-family="'Courier New', monospace" font-size="11">5 mins</text>
+<text x="780" y="460" fill="#e38c00" font-family="'Courier New', monospace" font-size="11" text-anchor="end">1.23%</text>
 <text x="60" y="486" fill="#c9d1d9" font-family="'Courier New', monospace" font-size="12.5">JavaScript</text>
 <rect x="200" y="474" width="400" height="16" rx="3" fill="#161b22"/>
 <rect x="200" y="474" width="3" height="16" rx="3" fill="#f1e05a" opacity="0.85"/>
-<text x="620" y="487" fill="#8b949e" font-family="'Courier New', monospace" font-size="11">2 mins</text>
-<text x="780" y="487" fill="#f1e05a" font-family="'Courier New', monospace" font-size="11" text-anchor="end">00.63%</text>
-
-<!-- Divider -->
+<text x="620" y="486" fill="#8b949e" font-family="'Courier New', monospace" font-size="11">2 mins</text>
+<text x="780" y="486" fill="#f1e05a" font-family="'Courier New', monospace" font-size="11" text-anchor="end">0.63%</text>
 <rect x="90" y="508" width="700" height="1" rx="0.5" fill="#21262d"/>
-
-<!-- ═══ EDITORS ═══ -->
 <text x="60" y="540" fill="#e6edf3" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="14" font-weight="bold">🔥 Editors</text>
-
 <text x="60" y="570" fill="#c9d1d9" font-family="'Courier New', monospace" font-size="12.5">WebStorm</text>
 <rect x="200" y="558" width="400" height="16" rx="3" fill="#161b22"/>
 <rect x="200" y="558" width="400" height="16" rx="3" fill="#07c3f2" opacity="0.7"/>
-<text x="620" y="571" fill="#8b949e" font-family="'Courier New', monospace" font-size="11">7 hrs 31 mins</text>
-<text x="780" y="571" fill="#07c3f2" font-family="'Courier New', monospace" font-size="11" text-anchor="end">100.00%</text>
-
-<!-- Divider -->
+<text x="620" y="570" fill="#8b949e" font-family="'Courier New', monospace" font-size="11">7 hrs 31 mins</text>
+<text x="780" y="570" fill="#07c3f2" font-family="'Courier New', monospace" font-size="11" text-anchor="end">100.00%</text>
 <rect x="90" y="592" width="700" height="1" rx="0.5" fill="#21262d"/>
-
-<!-- ═══ OS ═══ -->
 <text x="60" y="624" fill="#e6edf3" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="14" font-weight="bold">💻 Operating System</text>
-
 <text x="60" y="654" fill="#c9d1d9" font-family="'Courier New', monospace" font-size="12.5">Mac</text>
 <rect x="200" y="642" width="400" height="16" rx="3" fill="#161b22"/>
 <rect x="200" y="642" width="400" height="16" rx="3" fill="#c084fc" opacity="0.7"/>
-<text x="620" y="655" fill="#8b949e" font-family="'Courier New', monospace" font-size="11">7 hrs 31 mins</text>
-<text x="780" y="655" fill="#c084fc" font-family="'Courier New', monospace" font-size="11" text-anchor="end">100.00%</text>
-
-<!-- Bottom accent line -->
+<text x="620" y="654" fill="#8b949e" font-family="'Courier New', monospace" font-size="11">7 hrs 31 mins</text>
+<text x="780" y="654" fill="#c084fc" font-family="'Courier New', monospace" font-size="11" text-anchor="end">100.00%</text>
 <rect x="90" y="690" width="700" height="2" rx="1" fill="url(#accent)" opacity="0.4"/>
-
-<!-- Last Updated -->
-<text x="440" y="712" text-anchor="middle" fill="#484f58" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="10">Last Updated: Auto-generated • Hamdan772/Hamdan772</text>
+<text x="440" y="712" text-anchor="middle" fill="#8b949e" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="10">Last Updated: Feb 24, 2026 12:23 UTC • Hamdan772/Hamdan772</text>
 </svg>
