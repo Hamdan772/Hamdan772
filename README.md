@@ -25,13 +25,43 @@
 
 ---
 
-## 🛠️ Tech Stack
+## � Stats at a Glance
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hamdan772/Hamdan772/main/stats_dark.svg">
+  <img width="75%" src="https://raw.githubusercontent.com/Hamdan772/Hamdan772/main/stats_light.svg" alt="Code Time • Profile Views • Lines of Code"/>
+</picture>
+
+</div>
+
+---
+
+## �🛠️ Tech Stack
 
 <div align="center">
 
 | **Languages** | **AI / ML** | **IoT & Hardware** | **Tools & Platforms** |
 |:---:|:---:|:---:|:---:|
 | <img src="https://skillicons.dev/icons?i=python,js,ts,html,css,cpp&theme=dark&perline=3" alt="Languages"/> | <img src="https://skillicons.dev/icons?i=pytorch,opencv,numpy,tensorflow&theme=dark&perline=2" alt="AI / ML"/> | <img src="https://skillicons.dev/icons?i=arduino,raspberrypi&theme=dark&perline=2" alt="IoT & Hardware"/> | <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker,bash&theme=dark&perline=3" alt="Tools & Platforms"/> |
+
+| **Web & Frameworks** | **Databases** |
+|:---:|:---:|
+| <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind&theme=dark&perline=3" alt="Web & Frameworks"/> | <img src="https://skillicons.dev/icons?i=mongodb,postgres,firebase&theme=dark&perline=3" alt="Databases"/> |
+
+</div>
+
+---
+
+## 📊 Weekly Dev Activity
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hamdan772/Hamdan772/main/dev_activity_dark.svg">
+  <img width="80%" src="https://raw.githubusercontent.com/Hamdan772/Hamdan772/main/dev_activity_light.svg" alt="Weekly Dev Activity"/>
+</picture>
 
 </div>
 

@@ -1,0 +1,39 @@
+<svg width="800" height="180" viewBox="0 0 800 180" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+    <stop offset="0%" stop-color="#38bdf8"/>
+    <stop offset="50%" stop-color="#818cf8"/>
+    <stop offset="100%" stop-color="#c084fc"/>
+  </linearGradient>
+  <filter id="glow">
+    <feGaussianBlur stdDeviation="1.5" result="blur"/>
+    <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+</defs>
+
+<rect width="800" height="180" rx="12" fill="#0d1117" stroke="#21262d" stroke-width="1"/>
+
+<!-- Code Time -->
+<g transform="translate(133, 90)">
+  <text y="-40" text-anchor="middle" fill="#38bdf8" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="28" filter="url(#glow)">⏱️</text>
+  <text y="-5" text-anchor="middle" fill="#e6edf3" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="24" font-weight="bold">7 hrs 31 mins</text>
+  <text y="25" text-anchor="middle" fill="#8b949e" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="13" text-transform="uppercase" letter-spacing="1.5">Code Time</text>
+</g>
+
+<!-- Profile Views -->
+<g transform="translate(400, 90)">
+  <text y="-40" text-anchor="middle" fill="#818cf8" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="28" filter="url(#glow)">👁️</text>
+  <text y="-5" text-anchor="middle" fill="#e6edf3" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="24" font-weight="bold">1,247</text>
+  <text y="25" text-anchor="middle" fill="#8b949e" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="13" text-transform="uppercase" letter-spacing="1.5">Profile Views</text>
+</g>
+
+<!-- Lines of Code -->
+<g transform="translate(667, 90)">
+  <text y="-40" text-anchor="middle" fill="#c084fc" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="28" filter="url(#glow)">💻</text>
+  <text y="-5" text-anchor="middle" fill="#e6edf3" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="24" font-weight="bold">142.8K</text>
+  <text y="25" text-anchor="middle" fill="#8b949e" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="13" text-transform="uppercase" letter-spacing="1.5">Lines of Code</text>
+</g>
+
+<!-- Bottom accent line -->
+<rect x="50" y="160" width="700" height="2" rx="1" fill="url(#accent)" opacity="0.4"/>
+</svg>
